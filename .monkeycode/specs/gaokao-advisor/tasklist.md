@@ -22,123 +22,55 @@
 
 ## 阶段二：数据模型与存储层
 
-- [ ] 4. 设计并创建 PostgreSQL 数据表
-  - [ ] 4.1 创建用户相关表（users, student_profiles）
-    - users 表：id, username, password_hash, phone, user_type, created_at
-    - student_profiles 表：user_id, province, gaokao_year, score, rank, preferred_subjects, preferred_regions, interest_tags
+- [x] 4. 设计并创建 PostgreSQL 数据表
+  - [x] 4.1 创建用户相关表（users, student_profiles）
+  - [x] 4.2 创建高校相关表（colleges）
+  - [x] 4.3 创建专业相关表（majors）
+  - [x] 4.4 创建录取分数表（admission_scores）
+  - [x] 4.5 创建对话历史表（conversations, messages）
 
-  - [ ] 4.2 创建高校相关表（colleges）
-    - id, name, province, city, district, type, level, established_year, departments, faculties, website, description, rankings, disciplines, statistics
+- [x] 5. 创建 Elasticsearch 索引
+  - [x] 5.1 创建 colleges 索引
+  - [x] 5.2 创建 majors 索引
+  - [x] 5.3 创建 admission_scores 索引
+  - [x] 5.4 创建 knowledge_base 索引（报考知识、规划知识）
 
-  - [ ] 4.3 创建专业相关表（majors）
-    - id, name, category, code, degree, duration, description, core_courses, employment
-
-  - [ ] 4.4 创建录取分数表（admission_scores）
-    - college_id, major_id, province, year, batch, category, science_score, arts_score, science_rank_min, science_rank_max, arts_rank_min, arts_rank_max
-
-  - [ ] 4.5 创建对话历史表（conversations, messages）
-    - conversations: id, user_id, created_at
-    - messages: id, conversation_id, role, content, created_at
-
-- [ ] 5. 创建 Elasticsearch 索引
-  - [ ] 5.1 创建 colleges 索引
-    - 设置 mappings（id, name, province, city, type, level, rankings, majors, description, embedding）
-    - 配置 ik_max_word 中文分词器
-
-  - [ ] 5.2 创建 majors 索引
-    - 设置 mappings（id, name, category, degree, duration, employment, college_ids, embedding）
-
-  - [ ] 5.3 创建 admission_scores 索引
-    - 设置 mappings（college_id, major_id, province, year, batch, scores, ranks）
-
-  - [ ] 5.4 创建 knowledge_base 索引（报考知识、规划知识）
-    - 设置 mappings（type, title, content, tags, embedding）
-
-- [ ] 6. 实现 Repository 层
-  - [ ] 6.1 实现 UserRepository
-    - Create, FindByID, FindByPhone, Update 方法
-
-  - [ ] 6.2 实现 CollegeRepository
-    - Create, FindByID, FindAll, Search, FindByConditions 方法
-
-  - [ ] 6.3 实现 MajorRepository
-    - Create, FindByID, FindAll, Search, FindByConditions 方法
-
-  - [ ] 6.4 实现 ScoreRepository
-    - Create, FindByCollege, FindByMajor, FindByConditions, FindProbability 方法
+- [x] 6. 实现 Repository 层
+  - [x] 6.1 实现 UserRepository
+  - [x] 6.2 实现 CollegeRepository
+  - [x] 6.3 实现 MajorRepository
+  - [x] 6.4 实现 ScoreRepository
 
 ## 阶段三：用户服务与认证
 
-- [ ] 7. 实现用户服务核心功能
-  - [ ] 7.1 实现用户注册接口 POST /api/v1/user/register
-    - 参数校验（username, password, phone, code）
-    - 密码哈希存储
-    - 生成 JWT Token
-    - 返回 user_id 和 token
+- [x] 7. 实现用户服务核心功能
+  - [x] 7.1 实现用户注册接口 POST /api/v1/user/register
+  - [x] 7.2 实现用户登录接口 POST /api/v1/user/login
+  - [x] 7.3 实现获取用户信息 GET /api/v1/user/profile
+  - [x] 7.4 实现更新考生信息 PUT /api/v1/user/profile
+  - [x] 7.5 实现更新考生偏好 PUT /api/v1/user/preferences
 
-  - [ ] 7.2 实现用户登录接口 POST /api/v1/user/login
-    - 支持密码登录和短信验证码登录
-    - 验证密码/验证码
-    - 生成 JWT Token
-    - 返回用户信息和过期时间
-
-  - [ ] 7.3 实现获取用户信息 GET /api/v1/user/profile
-    - JWT Token 验证
-    - 关联查询考生信息
-    - 返回用户完整信息
-
-  - [ ] 7.4 实现更新考生信息 PUT /api/v1/user/profile
-    - 更新分数、位次、偏好等
-    - 参数校验
-
-  - [ ] 7.5 实现更新考生偏好 PUT /api/v1/user/preferences
-    - 更新 preferred_subjects, preferred_regions, interest_tags
-
-- [ ] 8. 实现 JWT 认证中间件
-  - 解析和验证 JWT Token
-  - 注入用户信息到 Context
-  - 处理 Token 刷新逻辑
-
-- [ ] 9. 实现短信验证码服务（模拟）
-  - 生成6位验证码
-  - 存储到 Redis（5分钟过期）
-  - 验证验证码
+- [x] 8. 实现 JWT 认证中间件
+- [x] 9. 实现短信验证码服务（模拟）
 
 ## 阶段四：数据服务 API
 
-- [ ] 10. 实现高校数据接口
-  - [ ] 10.1 GET /api/v1/colleges - 高校列表查询
-    - 分页、关键词搜索、条件过滤
-    - 返回高校基本信息
+- [x] 10. 实现高校数据接口
+  - [x] 10.1 GET /api/v1/colleges - 高校列表查询
+  - [x] 10.2 GET /api/v1/colleges/:id - 高校详情
+  - [x] 10.3 GET /api/v1/colleges/:id/majors - 高校专业列表
 
-  - [ ] 10.2 GET /api/v1/colleges/:id - 高校详情
-    - 返回高校完整信息（排名、师资、学科等）
+- [x] 11. 实现专业数据接口
+  - [x] 11.1 GET /api/v1/majors - 专业列表查询
+  - [x] 11.2 GET /api/v1/majors/:id - 专业详情
 
-  - [ ] 10.3 GET /api/v1/colleges/:id/majors - 高校专业列表
-    - 分页、学科门类过滤
+- [x] 12. 实现录取数据接口
+  - [x] 12.1 GET /api/v1/scores - 分数线查询
+  - [x] 12.2 GET /api/v1/scores/probability - 录取概率计算
 
-- [ ] 11. 实现专业数据接口
-  - [ ] 11.1 GET /api/v1/majors - 专业列表查询
-    - 分页、关键词搜索、学科门类过滤
-
-  - [ ] 11.2 GET /api/v1/majors/:id - 专业详情
-    - 返回专业完整信息（核心课程、就业情况等）
-
-- [ ] 12. 实现录取数据接口
-  - [ ] 12.1 GET /api/v1/scores - 分数线查询
-    - 按高校ID或专业ID查询
-    - 支持年份、省份、批次、科类过滤
-
-  - [ ] 12.2 GET /api/v1/scores/probability - 录取概率计算
-    - 基于考生分数和位次
-    - 分析历史录取数据
-    - 返回录取概率和建议
-
-- [ ] 13. 实现排名接口
-  - [ ] 13.1 GET /api/v1/rankings/colleges - 学校排名查询
-    - 按年份、排名类型、分类过滤
-
-  - [ ] 13.2 GET /api/v1/rankings/majors - 专业排名查询
+- [x] 13. 实现排名接口
+  - [x] 13.1 GET /api/v1/rankings/colleges - 学校排名查询
+  - [x] 13.2 GET /api/v1/rankings/majors - 专业排名查询
     - 按年份、学科门类过滤
 
 ## 阶段五：RAG 知识库构建
@@ -349,7 +281,9 @@
 ## 检查点
 
 - [x] 检查点1：确保基础项目结构搭建完成
-- [ ] 检查点2：确保数据模型和存储层实现完成
+- [x] 检查点2：确保数据模型和存储层实现完成
+- [x] 检查点3：确保用户服务和认证实现完成
+- [x] 检查点4：确保数据服务 API 实现完成
 - [ ] 检查点3：确保用户服务和认证实现完成
 - [ ] 检查点4：确保数据服务 API 实现完成
 - [ ] 检查点5：确保 RAG 知识库构建完成

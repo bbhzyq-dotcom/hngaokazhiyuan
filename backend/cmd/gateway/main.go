@@ -51,6 +51,13 @@ func main() {
 	userHandler := handler.NewUserHandler(userService)
 	userRouter := router.NewUserRouter(userHandler)
 
+	collegeRepo := repository.NewCollegeRepository(db)
+	majorRepo := repository.NewMajorRepository(db)
+	scoreRepo := repository.NewScoreRepository(db)
+	dataService := service.NewDataService(collegeRepo, majorRepo, scoreRepo)
+	dataHandler := handler.NewDataHandler(dataService)
+	dataRouter := router.NewDataRouter(dataHandler)
+
 	if cfg.App.Env == "production" {
 		gin.SetMode(gin.ReleaseMode)
 	}
@@ -60,6 +67,7 @@ func main() {
 	v1 := r.Group("/api/v1")
 	{
 		userRouter.RegisterRoutes(v1)
+		dataRouter.RegisterRoutes(v1)
 	}
 
 	addr := fmt.Sprintf("%s:%d", cfg.App.Host, cfg.App.Port)
