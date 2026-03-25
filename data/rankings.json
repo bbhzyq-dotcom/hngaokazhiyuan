@@ -1,0 +1,104 @@
+[
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10001",
+    "college_name": "清华大学",
+    "rank": 1
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10002",
+    "college_name": "北京大学",
+    "rank": 2
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10003",
+    "college_name": "浙江大学",
+    "rank": 3
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10005",
+    "college_name": "上海交通大学",
+    "rank": 4
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10006",
+    "college_name": "南京大学",
+    "rank": 6
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10012",
+    "college_name": "哈尔滨工业大学",
+    "rank": 8
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10013",
+    "college_name": "北京航空航天大学",
+    "rank": 13
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10101",
+    "college_name": "郑州大学",
+    "rank": 50
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10102",
+    "college_name": "河南大学",
+    "rank": 80
+  },
+  {
+    "year": 2024,
+    "ranking_type": "comprehensive",
+    "college_id": "10103",
+    "college_name": "河南科技大学",
+    "rank": 120
+  },
+  {
+    "year": 2024,
+    "ranking_type": "major_computer",
+    "major_id": "20001",
+    "major_name": "计算机科学与技术",
+    "rank": 1,
+    "college_name": "清华大学"
+  },
+  {
+    "year": 2024,
+    "ranking_type": "major_computer",
+    "major_id": "20001",
+    "major_name": "计算机科学与技术",
+    "rank": 2,
+    "college_name": "北京大学"
+  },
+  {
+    "year": 2024,
+    "ranking_type": "major_computer",
+    "major_id": "20001",
+    "major_name": "计算机科学与技术",
+    "rank": 3,
+    "college_name": "浙江大学"
+  },
+  {
+    "year": 2024,
+    "ranking_type": "major_computer",
+    "major_id": "20001",
+    "major_name": "计算机科学与技术",
+    "rank": 25,
+    "college_name": "郑州大学"
+  }
+]

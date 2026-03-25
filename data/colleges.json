@@ -1,0 +1,513 @@
+[
+  {
+    "id": "10001",
+    "name": "清华大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1911,
+    "description": "清华大学是中国著名高等学府",
+    "rankings": {
+      "comprehensive": 1
+    },
+    "disciplines": [
+      "计算机科学与技术",
+      "材料科学与工程"
+    ]
+  },
+  {
+    "id": "10002",
+    "name": "北京大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1898,
+    "description": "北京大学是中国著名高等学府",
+    "rankings": {
+      "comprehensive": 2
+    },
+    "disciplines": [
+      "数学",
+      "物理学"
+    ]
+  },
+  {
+    "id": "10003",
+    "name": "浙江大学",
+    "province": "浙江",
+    "city": "杭州",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1897,
+    "description": "浙江大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 3
+    },
+    "disciplines": [
+      "计算机科学与技术",
+      "软件工程"
+    ]
+  },
+  {
+    "id": "10004",
+    "name": "复旦大学",
+    "province": "上海",
+    "city": "上海",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1905,
+    "description": "复旦大学是国家重点建设的高水平大学",
+    "rankings": {
+      "comprehensive": 5
+    },
+    "disciplines": [
+      "数学",
+      "物理学"
+    ]
+  },
+  {
+    "id": "10005",
+    "name": "上海交通大学",
+    "province": "上海",
+    "city": "上海",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1896,
+    "description": "上海交通大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 4
+    },
+    "disciplines": [
+      "计算机科学与技术",
+      "机械工程"
+    ]
+  },
+  {
+    "id": "10006",
+    "name": "南京大学",
+    "province": "江苏",
+    "city": "南京",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1902,
+    "description": "南京大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 6
+    },
+    "disciplines": [
+      "物理学",
+      "化学"
+    ]
+  },
+  {
+    "id": "10007",
+    "name": "中国科学技术大学",
+    "province": "安徽",
+    "city": "合肥",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1958,
+    "description": "中国科学技术大学是一所以前沿科学和高新技术为主的综合性全国重点大学",
+    "rankings": {
+      "comprehensive": 7
+    },
+    "disciplines": [
+      "物理学",
+      "计算机科学与技术"
+    ]
+  },
+  {
+    "id": "10008",
+    "name": "武汉大学",
+    "province": "湖北",
+    "city": "武汉",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1893,
+    "description": "武汉大学是国家重点建设的高水平大学",
+    "rankings": {
+      "comprehensive": 10
+    },
+    "disciplines": [
+      "测绘科学与技术",
+      "计算机科学与技术"
+    ]
+  },
+  {
+    "id": "10009",
+    "name": "中山大学",
+    "province": "广东",
+    "city": "广州",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1924,
+    "description": "中山大学是国家重点建设的高水平大学",
+    "rankings": {
+      "comprehensive": 12
+    },
+    "disciplines": [
+      "临床医学",
+      "工商管理"
+    ]
+  },
+  {
+    "id": "10010",
+    "name": "华中科技大学",
+    "province": "湖北",
+    "city": "武汉",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1952,
+    "description": "华中科技大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 9
+    },
+    "disciplines": [
+      "机械工程",
+      "计算机科学与技术"
+    ]
+  },
+  {
+    "id": "10011",
+    "name": "西安交通大学",
+    "province": "陕西",
+    "city": "西安",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1896,
+    "description": "西安交通大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 11
+    },
+    "disciplines": [
+      "电气工程",
+      "机械工程"
+    ]
+  },
+  {
+    "id": "10012",
+    "name": "哈尔滨工业大学",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1920,
+    "description": "哈尔滨工业大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 8
+    },
+    "disciplines": [
+      "计算机科学与技术",
+      "机械工程"
+    ]
+  },
+  {
+    "id": "10013",
+    "name": "北京航空航天大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1952,
+    "description": "北京航空航天大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 13
+    },
+    "disciplines": [
+      "航空宇航科学与技术",
+      "计算机科学与技术"
+    ]
+  },
+  {
+    "id": "10014",
+    "name": "北京理工大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1940,
+    "description": "北京理工大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 18
+    },
+    "disciplines": [
+      "兵器科学与技术",
+      "计算机科学与技术"
+    ]
+  },
+  {
+    "id": "10015",
+    "name": "同济大学",
+    "province": "上海",
+    "city": "上海",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1907,
+    "description": "同济大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 16
+    },
+    "disciplines": [
+      "建筑学",
+      "土木工程"
+    ]
+  },
+  {
+    "id": "10016",
+    "name": "东南大学",
+    "province": "江苏",
+    "city": "南京",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1902,
+    "description": "东南大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 15
+    },
+    "disciplines": [
+      "建筑学",
+      "土木工程"
+    ]
+  },
+  {
+    "id": "10017",
+    "name": "北京师范大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "师范",
+    "level": "本科",
+    "established_year": 1902,
+    "description": "北京师范大学是国家重点建设的师范类高水平大学",
+    "rankings": {
+      "comprehensive": 20
+    },
+    "disciplines": [
+      "教育学",
+      "心理学"
+    ]
+  },
+  {
+    "id": "10018",
+    "name": "中国人民大学",
+    "province": "北京",
+    "city": "北京",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1937,
+    "description": "中国人民大学是国家重点建设的人文社科类高水平大学",
+    "rankings": {
+      "comprehensive": 14
+    },
+    "disciplines": [
+      "法学",
+      "经济学"
+    ]
+  },
+  {
+    "id": "10019",
+    "name": "南开大学",
+    "province": "天津",
+    "city": "天津",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1919,
+    "description": "南开大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 17
+    },
+    "disciplines": [
+      "化学",
+      "数学"
+    ]
+  },
+  {
+    "id": "10020",
+    "name": "天津大学",
+    "province": "天津",
+    "city": "天津",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1895,
+    "description": "天津大学是国家重点建设的高水平研究型大学",
+    "rankings": {
+      "comprehensive": 19
+    },
+    "disciplines": [
+      "化学工程与技术",
+      "建筑学"
+    ]
+  },
+  {
+    "id": "10101",
+    "name": "郑州大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1956,
+    "description": "郑州大学是河南省重点支持的国家重点建设高校和世界一流大学建设高校",
+    "rankings": {
+      "comprehensive": 50
+    },
+    "disciplines": [
+      "计算机科学与技术",
+      "临床医学",
+      "材料科学与工程"
+    ]
+  },
+  {
+    "id": "10102",
+    "name": "河南大学",
+    "province": "河南",
+    "city": "开封",
+    "type": "综合",
+    "level": "本科",
+    "established_year": 1912,
+    "description": "河南大学是河南省重点支持的高水平大学",
+    "rankings": {
+      "comprehensive": 80
+    },
+    "disciplines": [
+      "生物学",
+      "教育学"
+    ]
+  },
+  {
+    "id": "10103",
+    "name": "河南科技大学",
+    "province": "河南",
+    "city": "洛阳",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1952,
+    "description": "河南科技大学是河南省重点支持的高水平大学",
+    "rankings": {
+      "comprehensive": 120
+    },
+    "disciplines": [
+      "机械工程",
+      "材料科学与工程"
+    ]
+  },
+  {
+    "id": "10104",
+    "name": "河南理工大学",
+    "province": "河南",
+    "city": "焦作",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1909,
+    "description": "河南理工大学是河南省重点支持的高水平理工类大学",
+    "rankings": {
+      "comprehensive": 140
+    },
+    "disciplines": [
+      "安全工程",
+      "采矿工程"
+    ]
+  },
+  {
+    "id": "10105",
+    "name": "河南工业大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1956,
+    "description": "河南工业大学是河南省重点支持的工科类大学",
+    "rankings": {
+      "comprehensive": 160
+    },
+    "disciplines": [
+      "食品科学与工程",
+      "土木工程"
+    ]
+  },
+  {
+    "id": "10106",
+    "name": "河南农业大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "农林",
+    "level": "本科",
+    "established_year": 1912,
+    "description": "河南农业大学是河南省重点支持的农林类大学",
+    "rankings": {
+      "comprehensive": 180
+    },
+    "disciplines": [
+      "农学",
+      "林学"
+    ]
+  },
+  {
+    "id": "10107",
+    "name": "河南师范大学",
+    "province": "河南",
+    "city": "新乡",
+    "type": "师范",
+    "level": "本科",
+    "established_year": 1923,
+    "description": "河南师范大学是河南省重点支持的师范类大学",
+    "rankings": {
+      "comprehensive": 150
+    },
+    "disciplines": [
+      "教育学",
+      "数学"
+    ]
+  },
+  {
+    "id": "10108",
+    "name": "河南财经政法大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "财经",
+    "level": "本科",
+    "established_year": 1948,
+    "description": "河南财经政法大学是河南省重点支持的财经政法类大学",
+    "rankings": {
+      "comprehensive": 200
+    },
+    "disciplines": [
+      "经济学",
+      "法学"
+    ]
+  },
+  {
+    "id": "10109",
+    "name": "华北水利水电大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1951,
+    "description": "华北水利水电大学是水利部与河南省共建的高水平大学",
+    "rankings": {
+      "comprehensive": 190
+    },
+    "disciplines": [
+      "水利工程",
+      "土木工程"
+    ]
+  },
+  {
+    "id": "10110",
+    "name": "郑州轻工业大学",
+    "province": "河南",
+    "city": "郑州",
+    "type": "理工",
+    "level": "本科",
+    "established_year": 1977,
+    "description": "郑州轻工业大学是河南省重点支持的工科类大学",
+    "rankings": {
+      "comprehensive": 220
+    },
+    "disciplines": [
+      "食品科学与工程",
+      "化学工程与技术"
+    ]
+  }
+]

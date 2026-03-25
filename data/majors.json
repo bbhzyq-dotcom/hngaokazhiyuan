@@ -1,0 +1,242 @@
+[
+  {
+    "id": "20001",
+    "name": "计算机科学与技术",
+    "category": "工学",
+    "code": "080901",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 95.5,
+      "avg_salary": 15000
+    }
+  },
+  {
+    "id": "20002",
+    "name": "软件工程",
+    "category": "工学",
+    "code": "080902",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 94.8,
+      "avg_salary": 14500
+    }
+  },
+  {
+    "id": "20003",
+    "name": "电子信息工程",
+    "category": "工学",
+    "code": "080701",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 93.5,
+      "avg_salary": 13000
+    }
+  },
+  {
+    "id": "20004",
+    "name": "通信工程",
+    "category": "工学",
+    "code": "080703",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 93.0,
+      "avg_salary": 13500
+    }
+  },
+  {
+    "id": "20005",
+    "name": "自动化",
+    "category": "工学",
+    "code": "080801",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 93.5,
+      "avg_salary": 12500
+    }
+  },
+  {
+    "id": "20006",
+    "name": "电气工程及其自动化",
+    "category": "工学",
+    "code": "080601",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 94.0,
+      "avg_salary": 12000
+    }
+  },
+  {
+    "id": "20007",
+    "name": "机械工程",
+    "category": "工学",
+    "code": "080201",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 92.5,
+      "avg_salary": 11000
+    }
+  },
+  {
+    "id": "20008",
+    "name": "土木工程",
+    "category": "工学",
+    "code": "081001",
+    "degree": "工学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 91.5,
+      "avg_salary": 10500
+    }
+  },
+  {
+    "id": "20009",
+    "name": "建筑学",
+    "category": "工学",
+    "code": "082801",
+    "degree": "工学学士",
+    "duration": 5,
+    "employment": {
+      "rate": 90.0,
+      "avg_salary": 11500
+    }
+  },
+  {
+    "id": "20010",
+    "name": "临床医学",
+    "category": "医学",
+    "code": "100201K",
+    "degree": "医学学士",
+    "duration": 5,
+    "employment": {
+      "rate": 95.0,
+      "avg_salary": 14000
+    }
+  },
+  {
+    "id": "20011",
+    "name": "口腔医学",
+    "category": "医学",
+    "code": "100301K",
+    "degree": "医学学士",
+    "duration": 5,
+    "employment": {
+      "rate": 96.0,
+      "avg_salary": 16000
+    }
+  },
+  {
+    "id": "20012",
+    "name": "法学",
+    "category": "法学",
+    "code": "030101K",
+    "degree": "法学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 88.0,
+      "avg_salary": 11000
+    }
+  },
+  {
+    "id": "20013",
+    "name": "金融学",
+    "category": "经济学",
+    "code": "020301K",
+    "degree": "经济学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 92.0,
+      "avg_salary": 13000
+    }
+  },
+  {
+    "id": "20014",
+    "name": "会计学",
+    "category": "管理学",
+    "code": "120203K",
+    "degree": "管理学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 93.5,
+      "avg_salary": 10500
+    }
+  },
+  {
+    "id": "20015",
+    "name": "经济学",
+    "category": "经济学",
+    "code": "020101",
+    "degree": "经济学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 90.0,
+      "avg_salary": 12000
+    }
+  },
+  {
+    "id": "20016",
+    "name": "汉语言文学",
+    "category": "文学",
+    "code": "050101",
+    "degree": "文学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 87.0,
+      "avg_salary": 8500
+    }
+  },
+  {
+    "id": "20017",
+    "name": "英语",
+    "category": "文学",
+    "code": "050201",
+    "degree": "文学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 88.5,
+      "avg_salary": 9000
+    }
+  },
+  {
+    "id": "20018",
+    "name": "数学与应用数学",
+    "category": "理学",
+    "code": "070101",
+    "degree": "理学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 90.0,
+      "avg_salary": 13000
+    }
+  },
+  {
+    "id": "20019",
+    "name": "物理学",
+    "category": "理学",
+    "code": "070201",
+    "degree": "理学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 88.0,
+      "avg_salary": 12000
+    }
+  },
+  {
+    "id": "20020",
+    "name": "教育学",
+    "category": "教育学",
+    "code": "040101",
+    "degree": "教育学学士",
+    "duration": 4,
+    "employment": {
+      "rate": 89.0,
+      "avg_salary": 8000
+    }
+  }
+]
