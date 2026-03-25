@@ -1,242 +1,1714 @@
 [
   {
-    "id": "20001",
-    "name": "计算机科学与技术",
-    "category": "工学",
+    "id": "00001",
+    "name": "Computer Science and Technology",
+    "category": "Engineering",
     "code": "080901",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Science & Engineering",
+      "Normal"
+    ],
     "employment": {
-      "rate": 95.5,
-      "avg_salary": 15000
+      "rate": 87.9,
+      "avg_salary": 16140
     }
   },
   {
-    "id": "20002",
-    "name": "软件工程",
-    "category": "工学",
+    "id": "00002",
+    "name": "Software Engineering",
+    "category": "Engineering",
     "code": "080902",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 94.8,
-      "avg_salary": 14500
+      "rate": 94.5,
+      "avg_salary": 9906
     }
   },
   {
-    "id": "20003",
-    "name": "电子信息工程",
-    "category": "工学",
+    "id": "00003",
+    "name": "Electronic Information Engineering",
+    "category": "Engineering",
     "code": "080701",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Comprehensive"
+    ],
     "employment": {
-      "rate": 93.5,
-      "avg_salary": 13000
+      "rate": 94.7,
+      "avg_salary": 10185
     }
   },
   {
-    "id": "20004",
-    "name": "通信工程",
-    "category": "工学",
+    "id": "00004",
+    "name": "Communication Engineering",
+    "category": "Engineering",
     "code": "080703",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 93.0,
-      "avg_salary": 13500
+      "rate": 93.9,
+      "avg_salary": 13388
     }
   },
   {
-    "id": "20005",
-    "name": "自动化",
-    "category": "工学",
+    "id": "00005",
+    "name": "Automation",
+    "category": "Engineering",
     "code": "080801",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 93.5,
-      "avg_salary": 12500
+      "rate": 95.7,
+      "avg_salary": 11814
     }
   },
   {
-    "id": "20006",
-    "name": "电气工程及其自动化",
-    "category": "工学",
+    "id": "00006",
+    "name": "Electrical Engineering and Automation",
+    "category": "Engineering",
     "code": "080601",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 92.9,
+      "avg_salary": 10538
+    }
+  },
+  {
+    "id": "00007",
+    "name": "Mechanical Engineering",
+    "category": "Engineering",
+    "code": "080201",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 85.1,
+      "avg_salary": 7391
+    }
+  },
+  {
+    "id": "00008",
+    "name": "Materials Science and Engineering",
+    "category": "Engineering",
+    "code": "080401",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 88.9,
+      "avg_salary": 15251
+    }
+  },
+  {
+    "id": "00009",
+    "name": "Chemical Engineering",
+    "category": "Engineering",
+    "code": "081301",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
       "rate": 94.0,
-      "avg_salary": 12000
+      "avg_salary": 13510
     }
   },
   {
-    "id": "20007",
-    "name": "机械工程",
-    "category": "工学",
-    "code": "080201",
-    "degree": "工学学士",
-    "duration": 4,
-    "employment": {
-      "rate": 92.5,
-      "avg_salary": 11000
-    }
-  },
-  {
-    "id": "20008",
-    "name": "土木工程",
-    "category": "工学",
+    "id": "00010",
+    "name": "Civil Engineering",
+    "category": "Engineering",
     "code": "081001",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Comprehensive"
+    ],
     "employment": {
-      "rate": 91.5,
-      "avg_salary": 10500
+      "rate": 93.8,
+      "avg_salary": 12481
     }
   },
   {
-    "id": "20009",
-    "name": "建筑学",
-    "category": "工学",
+    "id": "00011",
+    "name": "Architecture",
+    "category": "Engineering",
     "code": "082801",
-    "degree": "工学学士",
+    "degree": "Bachelor of Engineering",
     "duration": 5,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 90.0,
-      "avg_salary": 11500
+      "rate": 85.3,
+      "avg_salary": 12406
     }
   },
   {
-    "id": "20010",
-    "name": "临床医学",
-    "category": "医学",
-    "code": "100201K",
-    "degree": "医学学士",
-    "duration": 5,
-    "employment": {
-      "rate": 95.0,
-      "avg_salary": 14000
-    }
-  },
-  {
-    "id": "20011",
-    "name": "口腔医学",
-    "category": "医学",
-    "code": "100301K",
-    "degree": "医学学士",
-    "duration": 5,
-    "employment": {
-      "rate": 96.0,
-      "avg_salary": 16000
-    }
-  },
-  {
-    "id": "20012",
-    "name": "法学",
-    "category": "法学",
-    "code": "030101K",
-    "degree": "法学学士",
+    "id": "00012",
+    "name": "Environmental Engineering",
+    "category": "Engineering",
+    "code": "082502",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 88.0,
-      "avg_salary": 11000
+      "rate": 88.8,
+      "avg_salary": 10253
     }
   },
   {
-    "id": "20013",
-    "name": "金融学",
-    "category": "经济学",
-    "code": "020301K",
-    "degree": "经济学学士",
+    "id": "00013",
+    "name": "Biomedical Engineering",
+    "category": "Engineering",
+    "code": "082601",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Medicine"
+    ],
     "employment": {
-      "rate": 92.0,
-      "avg_salary": 13000
+      "rate": 90.4,
+      "avg_salary": 9112
     }
   },
   {
-    "id": "20014",
-    "name": "会计学",
-    "category": "管理学",
-    "code": "120203K",
-    "degree": "管理学学士",
+    "id": "00014",
+    "name": "Food Science and Engineering",
+    "category": "Engineering",
+    "code": "082701",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Agriculture",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 90.8,
+      "avg_salary": 9920
+    }
+  },
+  {
+    "id": "00015",
+    "name": "Transportation Engineering",
+    "category": "Engineering",
+    "code": "081801",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.3,
+      "avg_salary": 11726
+    }
+  },
+  {
+    "id": "00016",
+    "name": "Hydraulic Engineering",
+    "category": "Engineering",
+    "code": "081101",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 86.8,
+      "avg_salary": 12264
+    }
+  },
+  {
+    "id": "00017",
+    "name": "Mining Engineering",
+    "category": "Engineering",
+    "code": "081501",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 86.8,
+      "avg_salary": 16412
+    }
+  },
+  {
+    "id": "00018",
+    "name": "Safety Engineering",
+    "category": "Engineering",
+    "code": "082901",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 85.2,
+      "avg_salary": 9863
+    }
+  },
+  {
+    "id": "00019",
+    "name": "Aerospace Engineering",
+    "category": "Engineering",
+    "code": "082001",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.4,
+      "avg_salary": 14892
+    }
+  },
+  {
+    "id": "00020",
+    "name": "Naval Architecture and Ocean Engineering",
+    "category": "Engineering",
+    "code": "082400",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 93.8,
+      "avg_salary": 16363
+    }
+  },
+  {
+    "id": "00021",
+    "name": "Nuclear Engineering",
+    "category": "Engineering",
+    "code": "082201",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 88.6,
+      "avg_salary": 9447
+    }
+  },
+  {
+    "id": "00022",
+    "name": "Photonics Information Science and Engineering",
+    "category": "Engineering",
+    "code": "080307",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.9,
+      "avg_salary": 7138
+    }
+  },
+  {
+    "id": "00023",
+    "name": "Instrument Science and Engineering",
+    "category": "Engineering",
+    "code": "080300",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 93.1,
+      "avg_salary": 11281
+    }
+  },
+  {
+    "id": "00024",
+    "name": "Vehicle Engineering",
+    "category": "Engineering",
+    "code": "080207",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 93.2,
+      "avg_salary": 8146
+    }
+  },
+  {
+    "id": "00025",
+    "name": "Railway Engineering",
+    "category": "Engineering",
+    "code": "081002",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.1,
+      "avg_salary": 10667
+    }
+  },
+  {
+    "id": "00026",
+    "name": "纺织工程",
+    "category": "Engineering",
+    "code": "081601",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.6,
+      "avg_salary": 11367
+    }
+  },
+  {
+    "id": "00027",
+    "name": "印刷工程",
+    "category": "Engineering",
+    "code": "081701",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 87.8,
+      "avg_salary": 9845
+    }
+  },
+  {
+    "id": "00028",
+    "name": "包装工程",
+    "category": "Engineering",
+    "code": "081702",
+    "degree": "Bachelor of Engineering",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
       "rate": 93.5,
-      "avg_salary": 10500
+      "avg_salary": 11405
     }
   },
   {
-    "id": "20015",
-    "name": "经济学",
-    "category": "经济学",
-    "code": "020101",
-    "degree": "经济学学士",
+    "id": "00029",
+    "name": "船舶与海洋工程",
+    "category": "Engineering",
+    "code": "082400",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 90.0,
-      "avg_salary": 12000
+      "rate": 92.9,
+      "avg_salary": 7450
     }
   },
   {
-    "id": "20016",
-    "name": "汉语言文学",
-    "category": "文学",
-    "code": "050101",
-    "degree": "文学学士",
+    "id": "00030",
+    "name": "海洋工程与技术",
+    "category": "Engineering",
+    "code": "082900",
+    "degree": "Bachelor of Engineering",
     "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
     "employment": {
-      "rate": 87.0,
-      "avg_salary": 8500
+      "rate": 85.5,
+      "avg_salary": 15293
     }
   },
   {
-    "id": "20017",
-    "name": "英语",
-    "category": "文学",
-    "code": "050201",
-    "degree": "文学学士",
-    "duration": 4,
-    "employment": {
-      "rate": 88.5,
-      "avg_salary": 9000
-    }
-  },
-  {
-    "id": "20018",
-    "name": "数学与应用数学",
-    "category": "理学",
+    "id": "00031",
+    "name": "Mathematics and Applied Mathematics",
+    "category": "Science",
     "code": "070101",
-    "degree": "理学学士",
+    "degree": "Bachelor of Science",
     "duration": 4,
-    "employment": {
-      "rate": 90.0,
-      "avg_salary": 13000
-    }
-  },
-  {
-    "id": "20019",
-    "name": "物理学",
-    "category": "理学",
-    "code": "070201",
-    "degree": "理学学士",
-    "duration": 4,
-    "employment": {
-      "rate": 88.0,
-      "avg_salary": 12000
-    }
-  },
-  {
-    "id": "20020",
-    "name": "教育学",
-    "category": "教育学",
-    "code": "040101",
-    "degree": "教育学学士",
-    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Science & Engineering"
+    ],
     "employment": {
       "rate": 89.0,
-      "avg_salary": 8000
+      "avg_salary": 10009
+    }
+  },
+  {
+    "id": "00032",
+    "name": "Physics",
+    "category": "Science",
+    "code": "070201",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 96.4,
+      "avg_salary": 12537
+    }
+  },
+  {
+    "id": "00033",
+    "name": "Chemistry",
+    "category": "Science",
+    "code": "070201",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 86.7,
+      "avg_salary": 13262
+    }
+  },
+  {
+    "id": "00034",
+    "name": "Applied Chemistry",
+    "category": "Science",
+    "code": "070302",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 85.3,
+      "avg_salary": 15741
+    }
+  },
+  {
+    "id": "00035",
+    "name": "Biology Science",
+    "category": "Science",
+    "code": "071001",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Agriculture",
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 91.8,
+      "avg_salary": 13818
+    }
+  },
+  {
+    "id": "00036",
+    "name": "Biotechnology",
+    "category": "Science",
+    "code": "071002",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 96.1,
+      "avg_salary": 10844
+    }
+  },
+  {
+    "id": "00037",
+    "name": "Statistics",
+    "category": "Science",
+    "code": "071201",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 92.3,
+      "avg_salary": 10078
+    }
+  },
+  {
+    "id": "00038",
+    "name": "Applied Physics",
+    "category": "Science",
+    "code": "070202",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 87.9,
+      "avg_salary": 11371
+    }
+  },
+  {
+    "id": "00039",
+    "name": "Marine Science",
+    "category": "Science",
+    "code": "070700",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 89.2,
+      "avg_salary": 13960
+    }
+  },
+  {
+    "id": "00040",
+    "name": "Atmospheric Science",
+    "category": "Science",
+    "code": "070600",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 95.7,
+      "avg_salary": 15244
+    }
+  },
+  {
+    "id": "00041",
+    "name": "Geology",
+    "category": "Science",
+    "code": "070901",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 96.3,
+      "avg_salary": 16203
+    }
+  },
+  {
+    "id": "00042",
+    "name": "Geophysics",
+    "category": "Science",
+    "code": "070801",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 87.7,
+      "avg_salary": 13554
+    }
+  },
+  {
+    "id": "00043",
+    "name": "Psychology",
+    "category": "Science",
+    "code": "071101",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 87.5,
+      "avg_salary": 9175
+    }
+  },
+  {
+    "id": "00044",
+    "name": "History",
+    "category": "Literature",
+    "code": "060101",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal"
+    ],
+    "employment": {
+      "rate": 88.5,
+      "avg_salary": 8401
+    }
+  },
+  {
+    "id": "00045",
+    "name": "Clinical Medicine",
+    "category": "Medicine",
+    "code": "100201K",
+    "degree": "Bachelor of Medicine",
+    "duration": 5,
+    "suitable_types": [
+      "Medicine",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 87.0,
+      "avg_salary": 10628
+    }
+  },
+  {
+    "id": "00046",
+    "name": "Stomatology",
+    "category": "Medicine",
+    "code": "100301K",
+    "degree": "Bachelor of Medicine",
+    "duration": 5,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 94.3,
+      "avg_salary": 16163
+    }
+  },
+  {
+    "id": "00047",
+    "name": "Pharmacy",
+    "category": "Medicine",
+    "code": "100701",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 86.2,
+      "avg_salary": 7384
+    }
+  },
+  {
+    "id": "00048",
+    "name": "Traditional Chinese Medicine",
+    "category": "Medicine",
+    "code": "100501K",
+    "degree": "Bachelor of Medicine",
+    "duration": 5,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 93.8,
+      "avg_salary": 9357
+    }
+  },
+  {
+    "id": "00049",
+    "name": "Nursing",
+    "category": "Medicine",
+    "code": "101101",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 85.8,
+      "avg_salary": 14632
+    }
+  },
+  {
+    "id": "00050",
+    "name": "Medical Laboratory Technology",
+    "category": "Medicine",
+    "code": "101001",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 88.6,
+      "avg_salary": 13428
+    }
+  },
+  {
+    "id": "00051",
+    "name": "Public Health and Preventive Medicine",
+    "category": "Medicine",
+    "code": "100401K",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 87.2,
+      "avg_salary": 9721
+    }
+  },
+  {
+    "id": "00052",
+    "name": "Optical Information Science and Technology",
+    "category": "Science",
+    "code": "071300",
+    "degree": "Bachelor of Science",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 92.6,
+      "avg_salary": 14834
+    }
+  },
+  {
+    "id": "00053",
+    "name": "Acupuncture and Moxibustion",
+    "category": "Medicine",
+    "code": "100502K",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 92.6,
+      "avg_salary": 14102
+    }
+  },
+  {
+    "id": "00054",
+    "name": "Chinese Pharmacology",
+    "category": "Medicine",
+    "code": "100803",
+    "degree": "Bachelor of Medicine",
+    "duration": 4,
+    "suitable_types": [
+      "Medicine"
+    ],
+    "employment": {
+      "rate": 89.8,
+      "avg_salary": 9478
+    }
+  },
+  {
+    "id": "00055",
+    "name": "Chinese Language and Literature",
+    "category": "Literature",
+    "code": "050101",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Language"
+    ],
+    "employment": {
+      "rate": 92.3,
+      "avg_salary": 14704
+    }
+  },
+  {
+    "id": "00056",
+    "name": "English",
+    "category": "Literature",
+    "code": "050201",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Normal",
+      "Language"
+    ],
+    "employment": {
+      "rate": 93.8,
+      "avg_salary": 9598
+    }
+  },
+  {
+    "id": "00057",
+    "name": "French",
+    "category": "Literature",
+    "code": "050204",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Language"
+    ],
+    "employment": {
+      "rate": 87.5,
+      "avg_salary": 16072
+    }
+  },
+  {
+    "id": "00058",
+    "name": "German",
+    "category": "Literature",
+    "code": "050203",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Language"
+    ],
+    "employment": {
+      "rate": 93.5,
+      "avg_salary": 7182
+    }
+  },
+  {
+    "id": "00059",
+    "name": "Japanese",
+    "category": "Literature",
+    "code": "050207",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Language"
+    ],
+    "employment": {
+      "rate": 93.4,
+      "avg_salary": 15730
+    }
+  },
+  {
+    "id": "00060",
+    "name": "Korean",
+    "category": "Literature",
+    "code": "050209",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Language"
+    ],
+    "employment": {
+      "rate": 93.7,
+      "avg_salary": 15678
+    }
+  },
+  {
+    "id": "00061",
+    "name": "News and Communication",
+    "category": "Literature",
+    "code": "050301",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Language"
+    ],
+    "employment": {
+      "rate": 91.5,
+      "avg_salary": 14366
+    }
+  },
+  {
+    "id": "00062",
+    "name": "Broadcasting and Television",
+    "category": "Literature",
+    "code": "050305",
+    "degree": "Bachelor of Literature",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Arts"
+    ],
+    "employment": {
+      "rate": 90.9,
+      "avg_salary": 8657
+    }
+  },
+  {
+    "id": "00063",
+    "name": "Law",
+    "category": "Law",
+    "code": "030101K",
+    "degree": "Bachelor of Law",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Politics & Law"
+    ],
+    "employment": {
+      "rate": 88.8,
+      "avg_salary": 10016
+    }
+  },
+  {
+    "id": "00064",
+    "name": "Intellectual Property",
+    "category": "Law",
+    "code": "030102T",
+    "degree": "Bachelor of Law",
+    "duration": 4,
+    "suitable_types": [
+      "Politics & Law"
+    ],
+    "employment": {
+      "rate": 93.2,
+      "avg_salary": 10765
+    }
+  },
+  {
+    "id": "00065",
+    "name": "Politics and Public Administration",
+    "category": "Law",
+    "code": "030201",
+    "degree": "Bachelor of Law",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Politics & Law"
+    ],
+    "employment": {
+      "rate": 93.9,
+      "avg_salary": 7509
+    }
+  },
+  {
+    "id": "00066",
+    "name": "Economics",
+    "category": "Economics",
+    "code": "020101",
+    "degree": "Bachelor of Economics",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 92.0,
+      "avg_salary": 16452
+    }
+  },
+  {
+    "id": "00067",
+    "name": "Finance",
+    "category": "Economics",
+    "code": "020301K",
+    "degree": "Bachelor of Economics",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 87.5,
+      "avg_salary": 11978
+    }
+  },
+  {
+    "id": "00068",
+    "name": "International Finance",
+    "category": "Economics",
+    "code": "020302",
+    "degree": "Bachelor of Economics",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 85.2,
+      "avg_salary": 12900
+    }
+  },
+  {
+    "id": "00069",
+    "name": "Insurance",
+    "category": "Economics",
+    "code": "020305",
+    "degree": "Bachelor of Economics",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 96.6,
+      "avg_salary": 15875
+    }
+  },
+  {
+    "id": "00070",
+    "name": "Investment",
+    "category": "Economics",
+    "code": "020304",
+    "degree": "Bachelor of Economics",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 96.6,
+      "avg_salary": 16592
+    }
+  },
+  {
+    "id": "00071",
+    "name": "Accounting",
+    "category": "Management",
+    "code": "120203K",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 95.9,
+      "avg_salary": 8026
+    }
+  },
+  {
+    "id": "00072",
+    "name": "Business Administration",
+    "category": "Management",
+    "code": "120201K",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 95.7,
+      "avg_salary": 9298
+    }
+  },
+  {
+    "id": "00073",
+    "name": "Marketing",
+    "category": "Management",
+    "code": "120202",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Finance & Economics"
+    ],
+    "employment": {
+      "rate": 92.5,
+      "avg_salary": 9941
+    }
+  },
+  {
+    "id": "00074",
+    "name": "Human Resource Management",
+    "category": "Management",
+    "code": "120206",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 92.2,
+      "avg_salary": 13794
+    }
+  },
+  {
+    "id": "00075",
+    "name": "Tourism Management",
+    "category": "Management",
+    "code": "120901K",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 91.6,
+      "avg_salary": 10648
+    }
+  },
+  {
+    "id": "00076",
+    "name": "Hotel Management",
+    "category": "Management",
+    "code": "120902",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 86.2,
+      "avg_salary": 9524
+    }
+  },
+  {
+    "id": "00077",
+    "name": "Information Management and Information Systems",
+    "category": "Management",
+    "code": "120102",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Science & Engineering",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 88.1,
+      "avg_salary": 11089
+    }
+  },
+  {
+    "id": "00078",
+    "name": "E-commerce",
+    "category": "Management",
+    "code": "120801",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 96.9,
+      "avg_salary": 10697
+    }
+  },
+  {
+    "id": "00079",
+    "name": "Logistics Management",
+    "category": "Management",
+    "code": "120601",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 87.8,
+      "avg_salary": 8548
+    }
+  },
+  {
+    "id": "00080",
+    "name": "Public Administration",
+    "category": "Management",
+    "code": "120401",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Comprehensive",
+      "Politics & Law"
+    ],
+    "employment": {
+      "rate": 89.2,
+      "avg_salary": 11217
+    }
+  },
+  {
+    "id": "00081",
+    "name": "Education Management",
+    "category": "Management",
+    "code": "120402",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Normal",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 86.5,
+      "avg_salary": 11024
+    }
+  },
+  {
+    "id": "00082",
+    "name": "Education",
+    "category": "Education",
+    "code": "040101",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal"
+    ],
+    "employment": {
+      "rate": 91.0,
+      "avg_salary": 10947
+    }
+  },
+  {
+    "id": "00083",
+    "name": "Primary School Education",
+    "category": "Education",
+    "code": "040107",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal"
+    ],
+    "employment": {
+      "rate": 94.2,
+      "avg_salary": 8618
+    }
+  },
+  {
+    "id": "00084",
+    "name": "Preschool Education",
+    "category": "Education",
+    "code": "040106",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal"
+    ],
+    "employment": {
+      "rate": 94.1,
+      "avg_salary": 15864
+    }
+  },
+  {
+    "id": "00085",
+    "name": "Physical Education",
+    "category": "Education",
+    "code": "040201",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal",
+      "Sports"
+    ],
+    "employment": {
+      "rate": 89.3,
+      "avg_salary": 11982
+    }
+  },
+  {
+    "id": "00086",
+    "name": "Special Education",
+    "category": "Education",
+    "code": "040108",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal"
+    ],
+    "employment": {
+      "rate": 93.9,
+      "avg_salary": 12844
+    }
+  },
+  {
+    "id": "00087",
+    "name": "Educational Technology",
+    "category": "Education",
+    "code": "040104",
+    "degree": "Bachelor of Education",
+    "duration": 4,
+    "suitable_types": [
+      "Normal",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 88.7,
+      "avg_salary": 9801
+    }
+  },
+  {
+    "id": "00088",
+    "name": "Agronomy",
+    "category": "Agriculture",
+    "code": "090101",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 85.4,
+      "avg_salary": 7599
+    }
+  },
+  {
+    "id": "00089",
+    "name": "Plant Protection",
+    "category": "Agriculture",
+    "code": "090103",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 91.8,
+      "avg_salary": 12056
+    }
+  },
+  {
+    "id": "00090",
+    "name": "Seed Science and Engineering",
+    "category": "Agriculture",
+    "code": "090105",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 94.4,
+      "avg_salary": 8197
+    }
+  },
+  {
+    "id": "00091",
+    "name": "Horticulture",
+    "category": "Agriculture",
+    "code": "090102",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 95.8,
+      "avg_salary": 13520
+    }
+  },
+  {
+    "id": "00092",
+    "name": "Forestry",
+    "category": "Agriculture",
+    "code": "090501",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 86.1,
+      "avg_salary": 10369
+    }
+  },
+  {
+    "id": "00093",
+    "name": "Animal Science",
+    "category": "Agriculture",
+    "code": "090301",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 91.0,
+      "avg_salary": 16328
+    }
+  },
+  {
+    "id": "00094",
+    "name": "Veterinary Medicine",
+    "category": "Agriculture",
+    "code": "090401",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 85.4,
+      "avg_salary": 9777
+    }
+  },
+  {
+    "id": "00095",
+    "name": "Grassland Science",
+    "category": "Agriculture",
+    "code": "090701",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 89.6,
+      "avg_salary": 16437
+    }
+  },
+  {
+    "id": "00096",
+    "name": "Aquaculture",
+    "category": "Agriculture",
+    "code": "090601",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture"
+    ],
+    "employment": {
+      "rate": 86.0,
+      "avg_salary": 15343
+    }
+  },
+  {
+    "id": "00097",
+    "name": "Agricultural Mechanization",
+    "category": "Agriculture",
+    "code": "082302",
+    "degree": "Bachelor of Agriculture",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 94.2,
+      "avg_salary": 11478
+    }
+  },
+  {
+    "id": "00098",
+    "name": "Agricultural Economic Management",
+    "category": "Management",
+    "code": "120301",
+    "degree": "Bachelor of Management",
+    "duration": 4,
+    "suitable_types": [
+      "Agriculture",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 95.8,
+      "avg_salary": 10330
+    }
+  },
+  {
+    "id": "00099",
+    "name": "Fine Arts",
+    "category": "Art",
+    "code": "130401",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 95.2,
+      "avg_salary": 9625
+    }
+  },
+  {
+    "id": "00100",
+    "name": "Music Performance",
+    "category": "Art",
+    "code": "130201",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 86.3,
+      "avg_salary": 8854
+    }
+  },
+  {
+    "id": "00101",
+    "name": "Musicology",
+    "category": "Art",
+    "code": "130202",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 88.1,
+      "avg_salary": 16685
+    }
+  },
+  {
+    "id": "00102",
+    "name": "Dance Performance",
+    "category": "Art",
+    "code": "130204",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 93.2,
+      "avg_salary": 12002
+    }
+  },
+  {
+    "id": "00103",
+    "name": "Drama and Film",
+    "category": "Art",
+    "code": "130304",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts",
+      "Comprehensive"
+    ],
+    "employment": {
+      "rate": 92.6,
+      "avg_salary": 12996
+    }
+  },
+  {
+    "id": "00104",
+    "name": "Design",
+    "category": "Art",
+    "code": "130500",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 94.5,
+      "avg_salary": 14385
+    }
+  },
+  {
+    "id": "00105",
+    "name": "Visual Communication Design",
+    "category": "Art",
+    "code": "130202",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 88.4,
+      "avg_salary": 16860
+    }
+  },
+  {
+    "id": "00106",
+    "name": "Environmental Design",
+    "category": "Art",
+    "code": "130503",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts"
+    ],
+    "employment": {
+      "rate": 88.1,
+      "avg_salary": 13599
+    }
+  },
+  {
+    "id": "00107",
+    "name": "Digital Media Art",
+    "category": "Art",
+    "code": "130508",
+    "degree": "Bachelor of Art",
+    "duration": 4,
+    "suitable_types": [
+      "Arts",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 95.1,
+      "avg_salary": 14982
+    }
+  },
+  {
+    "id": "00108",
+    "name": "Electronic Countermeasures",
+    "category": "Military",
+    "code": "110110",
+    "degree": "Bachelor of Military",
+    "duration": 4,
+    "suitable_types": [
+      "Military"
+    ],
+    "employment": {
+      "rate": 86.4,
+      "avg_salary": 9192
+    }
+  },
+  {
+    "id": "00109",
+    "name": "Aerospace Science and Technology",
+    "category": "Military",
+    "code": "082001",
+    "degree": "Bachelor of Military",
+    "duration": 4,
+    "suitable_types": [
+      "Military",
+      "Science & Engineering"
+    ],
+    "employment": {
+      "rate": 93.8,
+      "avg_salary": 11629
+    }
+  },
+  {
+    "id": "00110",
+    "name": "Military Logistics",
+    "category": "Military",
+    "code": "110306",
+    "degree": "Bachelor of Military",
+    "duration": 4,
+    "suitable_types": [
+      "Military"
+    ],
+    "employment": {
+      "rate": 85.5,
+      "avg_salary": 12949
+    }
+  },
+  {
+    "id": "00111",
+    "name": "Command and Command Technology",
+    "category": "Military",
+    "code": "1101",
+    "degree": "Bachelor of Military",
+    "duration": 4,
+    "suitable_types": [
+      "Military"
+    ],
+    "employment": {
+      "rate": 90.8,
+      "avg_salary": 11286
     }
   }
 ]
