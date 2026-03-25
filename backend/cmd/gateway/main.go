@@ -58,6 +58,12 @@ func main() {
 	dataHandler := handler.NewDataHandler(dataService)
 	dataRouter := router.NewDataRouter(dataHandler)
 
+	esRepo := repository.NewESRepository()
+	convRepo := repository.NewConversationRepository(db)
+	qaService := service.NewQAService(esRepo, userRepo, convRepo, &cfg.AI)
+	qaHandler := handler.NewQAHandler(qaService)
+	qaRouter := router.NewQARouter(qaHandler)
+
 	if cfg.App.Env == "production" {
 		gin.SetMode(gin.ReleaseMode)
 	}
@@ -68,6 +74,7 @@ func main() {
 	{
 		userRouter.RegisterRoutes(v1)
 		dataRouter.RegisterRoutes(v1)
+		qaRouter.RegisterRoutes(v1)
 	}
 
 	addr := fmt.Sprintf("%s:%d", cfg.App.Host, cfg.App.Port)
