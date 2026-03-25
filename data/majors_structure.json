@@ -1,0 +1,4657 @@
+{
+  "01": {
+    "name": "哲学",
+    "categories": {
+      "0101": {
+        "name": "哲学类",
+        "majors": [
+          {
+            "code": "010101",
+            "name": "哲学",
+            "duration": 4
+          },
+          {
+            "code": "010102",
+            "name": "逻辑学",
+            "duration": 4
+          },
+          {
+            "code": "010103",
+            "name": "宗教学",
+            "duration": 4
+          },
+          {
+            "code": "010104T",
+            "name": "伦理学",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "02": {
+    "name": "经济学",
+    "categories": {
+      "0201": {
+        "name": "经济学类",
+        "majors": [
+          {
+            "code": "020101",
+            "name": "经济学",
+            "duration": 4
+          },
+          {
+            "code": "020102",
+            "name": "经济统计学",
+            "duration": 4
+          },
+          {
+            "code": "020103T",
+            "name": "国民经济管理",
+            "duration": 4
+          },
+          {
+            "code": "020104T",
+            "name": "资源与环境经济学",
+            "duration": 4
+          },
+          {
+            "code": "020105T",
+            "name": "商务经济学",
+            "duration": 4
+          },
+          {
+            "code": "020106T",
+            "name": "能源经济",
+            "duration": 4
+          },
+          {
+            "code": "020107T",
+            "name": "劳动经济学",
+            "duration": 4
+          },
+          {
+            "code": "020108T",
+            "name": "经济工程",
+            "duration": 4
+          },
+          {
+            "code": "020109T",
+            "name": "数字经济",
+            "duration": 4
+          }
+        ]
+      },
+      "0202": {
+        "name": "财政学类",
+        "majors": [
+          {
+            "code": "020201K",
+            "name": "财政学",
+            "duration": 4
+          },
+          {
+            "code": "020202",
+            "name": "税收学",
+            "duration": 4
+          },
+          {
+            "code": "020203T",
+            "name": "国际税收",
+            "duration": 4
+          }
+        ]
+      },
+      "0203": {
+        "name": "金融学类",
+        "majors": [
+          {
+            "code": "020301K",
+            "name": "金融学",
+            "duration": 4
+          },
+          {
+            "code": "020302",
+            "name": "金融工程",
+            "duration": 4
+          },
+          {
+            "code": "020303",
+            "name": "保险学",
+            "duration": 4
+          },
+          {
+            "code": "020304T",
+            "name": "投资学",
+            "duration": 4
+          },
+          {
+            "code": "020305T",
+            "name": "金融数学",
+            "duration": 4
+          },
+          {
+            "code": "020306T",
+            "name": "信用管理",
+            "duration": 4
+          },
+          {
+            "code": "020307T",
+            "name": "经济与金融",
+            "duration": 4
+          },
+          {
+            "code": "020308T",
+            "name": "互联网金融",
+            "duration": 4
+          },
+          {
+            "code": "020309T",
+            "name": "金融科技",
+            "duration": 4
+          }
+        ]
+      },
+      "0204": {
+        "name": "经济与贸易类",
+        "majors": [
+          {
+            "code": "020401",
+            "name": "国际经济与贸易",
+            "duration": 4
+          },
+          {
+            "code": "020402",
+            "name": "贸易经济",
+            "duration": 4
+          },
+          {
+            "code": "020403T",
+            "name": "国际商务",
+            "duration": 4
+          },
+          {
+            "code": "020404T",
+            "name": "跨境电子商务",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "03": {
+    "name": "法学",
+    "categories": {
+      "0301": {
+        "name": "法学类",
+        "majors": [
+          {
+            "code": "030101K",
+            "name": "法学",
+            "duration": 4
+          },
+          {
+            "code": "030102T",
+            "name": "知识产权",
+            "duration": 4
+          },
+          {
+            "code": "030103T",
+            "name": "监狱学",
+            "duration": 4
+          },
+          {
+            "code": "030104T",
+            "name": "信用风险管理与法律防控",
+            "duration": 4
+          },
+          {
+            "code": "030105T",
+            "name": "国际经贸规则",
+            "duration": 4
+          },
+          {
+            "code": "030106T",
+            "name": "司法警察学",
+            "duration": 4
+          },
+          {
+            "code": "030107T",
+            "name": "社区矫正",
+            "duration": 4
+          }
+        ]
+      },
+      "0302": {
+        "name": "政治学类",
+        "majors": [
+          {
+            "code": "030201",
+            "name": "政治学与行政学",
+            "duration": 4
+          },
+          {
+            "code": "030202",
+            "name": "国际政治",
+            "duration": 4
+          },
+          {
+            "code": "030203T",
+            "name": "外交学",
+            "duration": 4
+          },
+          {
+            "code": "030204T",
+            "name": "国际事务与国际关系",
+            "duration": 4
+          },
+          {
+            "code": "030205T",
+            "name": "政治学、经济学与哲学",
+            "duration": 4
+          },
+          {
+            "code": "030206T",
+            "name": "国际组织与全球治理",
+            "duration": 4
+          }
+        ]
+      },
+      "0303": {
+        "name": "社会学类",
+        "majors": [
+          {
+            "code": "030301",
+            "name": "社会学",
+            "duration": 4
+          },
+          {
+            "code": "030302",
+            "name": "社会工作",
+            "duration": 4
+          },
+          {
+            "code": "030303T",
+            "name": "人类学",
+            "duration": 4
+          },
+          {
+            "code": "030304T",
+            "name": "女性学",
+            "duration": 4
+          },
+          {
+            "code": "030305T",
+            "name": "家政学",
+            "duration": 4
+          },
+          {
+            "code": "030306T",
+            "name": "老年学",
+            "duration": 4
+          },
+          {
+            "code": "030307T",
+            "name": "社会政策",
+            "duration": 4
+          }
+        ]
+      },
+      "0304": {
+        "name": "民族学类",
+        "majors": [
+          {
+            "code": "030401",
+            "name": "民族学",
+            "duration": 4
+          },
+          {
+            "code": "030402",
+            "name": "马克思主义民族理论与政策",
+            "duration": 4
+          },
+          {
+            "code": "030403T",
+            "name": "中国学",
+            "duration": 4
+          },
+          {
+            "code": "030404T",
+            "name": "中华民族学",
+            "duration": 4
+          }
+        ]
+      },
+      "0305": {
+        "name": "公安学类",
+        "majors": [
+          {
+            "code": "030501",
+            "name": "治安学",
+            "duration": 4
+          },
+          {
+            "code": "030502",
+            "name": "侦查学",
+            "duration": 4
+          },
+          {
+            "code": "030503",
+            "name": "边防管理",
+            "duration": 4
+          },
+          {
+            "code": "030504T",
+            "name": "禁毒学",
+            "duration": 4
+          },
+          {
+            "code": "030505T",
+            "name": "警犬技术",
+            "duration": 4
+          },
+          {
+            "code": "030506T",
+            "name": "经济犯罪侦查",
+            "duration": 4
+          },
+          {
+            "code": "030507T",
+            "name": "边境管制",
+            "duration": 4
+          },
+          {
+            "code": "030508T",
+            "name": "公安情报学",
+            "duration": 4
+          },
+          {
+            "code": "030509T",
+            "name": "涉外警务",
+            "duration": 4
+          },
+          {
+            "code": "030510T",
+            "name": "公安管理学",
+            "duration": 4
+          },
+          {
+            "code": "030511T",
+            "name": "火灾勘查",
+            "duration": 4
+          },
+          {
+            "code": "030512T",
+            "name": "网络安全与执法",
+            "duration": 4
+          },
+          {
+            "code": "030513T",
+            "name": "核生化消防",
+            "duration": 4
+          },
+          {
+            "code": "030514T",
+            "name": "海警执法",
+            "duration": 4
+          },
+          {
+            "code": "030515T",
+            "name": "数据警务技术",
+            "duration": 4
+          },
+          {
+            "code": "030516T",
+            "name": "食品药品环境犯罪侦查技术",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "04": {
+    "name": "教育学",
+    "categories": {
+      "0401": {
+        "name": "教育学类",
+        "majors": [
+          {
+            "code": "040101",
+            "name": "教育学",
+            "duration": 4
+          },
+          {
+            "code": "040102",
+            "name": "科学教育",
+            "duration": 4
+          },
+          {
+            "code": "040103",
+            "name": "人文教育",
+            "duration": 4
+          },
+          {
+            "code": "040104",
+            "name": "教育技术学",
+            "duration": 4
+          },
+          {
+            "code": "040105T",
+            "name": "艺术教育",
+            "duration": 4
+          },
+          {
+            "code": "040106T",
+            "name": "学前教育",
+            "duration": 4
+          },
+          {
+            "code": "040107T",
+            "name": "小学教育",
+            "duration": 4
+          },
+          {
+            "code": "040108T",
+            "name": "特殊教育",
+            "duration": 4
+          },
+          {
+            "code": "040109T",
+            "name": "教育康复学",
+            "duration": 4
+          },
+          {
+            "code": "040110T",
+            "name": "卫生教育",
+            "duration": 4
+          },
+          {
+            "code": "040111T",
+            "name": "认知科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "040112T",
+            "name": "会展",
+            "duration": 4
+          },
+          {
+            "code": "040113T",
+            "name": "航空服务艺术与管理",
+            "duration": 4
+          },
+          {
+            "code": "040114T",
+            "name": "孤独症儿童教育",
+            "duration": 4
+          }
+        ]
+      },
+      "0402": {
+        "name": "体育学类",
+        "majors": [
+          {
+            "code": "040201",
+            "name": "体育教育",
+            "duration": 4
+          },
+          {
+            "code": "040202K",
+            "name": "运动训练",
+            "duration": 4
+          },
+          {
+            "code": "040203",
+            "name": "社会体育指导与管理",
+            "duration": 4
+          },
+          {
+            "code": "040204K",
+            "name": "武术与民族传统体育",
+            "duration": 4
+          },
+          {
+            "code": "040205T",
+            "name": "运动人体科学",
+            "duration": 4
+          },
+          {
+            "code": "040206T",
+            "name": "运动康复",
+            "duration": 4
+          },
+          {
+            "code": "040207T",
+            "name": "休闲体育",
+            "duration": 4
+          },
+          {
+            "code": "040208T",
+            "name": "体能训练",
+            "duration": 4
+          },
+          {
+            "code": "040209T",
+            "name": "冰雪运动",
+            "duration": 4
+          },
+          {
+            "code": "040210T",
+            "name": "电子竞技运动与管理",
+            "duration": 4
+          },
+          {
+            "code": "040211T",
+            "name": "智能体育工程",
+            "duration": 4
+          },
+          {
+            "code": "040212T",
+            "name": "体育旅游",
+            "duration": 4
+          },
+          {
+            "code": "040213T",
+            "name": "运动能力开发",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "05": {
+    "name": "文学",
+    "categories": {
+      "0501": {
+        "name": "中国语言文学类",
+        "majors": [
+          {
+            "code": "050101",
+            "name": "汉语言文学",
+            "duration": 4
+          },
+          {
+            "code": "050102",
+            "name": "汉语言",
+            "duration": 4
+          },
+          {
+            "code": "050103T",
+            "name": "汉语国际教育",
+            "duration": 4
+          },
+          {
+            "code": "050104T",
+            "name": "中国少数民族语言文学",
+            "duration": 4
+          },
+          {
+            "code": "050105T",
+            "name": "古典文献学",
+            "duration": 4
+          },
+          {
+            "code": "050106T",
+            "name": "应用语言学",
+            "duration": 4
+          },
+          {
+            "code": "050107T",
+            "name": "秘书学",
+            "duration": 4
+          },
+          {
+            "code": "050108T",
+            "name": "中国语言与文化",
+            "duration": 4
+          },
+          {
+            "code": "050109T",
+            "name": "手语翻译",
+            "duration": 4
+          }
+        ]
+      },
+      "0502": {
+        "name": "外国语言文学类",
+        "majors": [
+          {
+            "code": "050201",
+            "name": "英语",
+            "duration": 4
+          },
+          {
+            "code": "050202",
+            "name": "俄语",
+            "duration": 4
+          },
+          {
+            "code": "050203",
+            "name": "德语",
+            "duration": 4
+          },
+          {
+            "code": "050204",
+            "name": "法语",
+            "duration": 4
+          },
+          {
+            "code": "050205",
+            "name": "西班牙语",
+            "duration": 4
+          },
+          {
+            "code": "050206",
+            "name": "阿拉伯语",
+            "duration": 4
+          },
+          {
+            "code": "050207",
+            "name": "日语",
+            "duration": 4
+          },
+          {
+            "code": "050208",
+            "name": "波斯语",
+            "duration": 4
+          },
+          {
+            "code": "050209",
+            "name": "朝鲜语",
+            "duration": 4
+          },
+          {
+            "code": "050210T",
+            "name": "菲律宾语",
+            "duration": 4
+          },
+          {
+            "code": "050211T",
+            "name": "梵语巴利语",
+            "duration": 4
+          },
+          {
+            "code": "050212T",
+            "name": "印度尼西亚语",
+            "duration": 4
+          },
+          {
+            "code": "050213T",
+            "name": "印地语",
+            "duration": 4
+          },
+          {
+            "code": "050214T",
+            "name": "柬埔寨语",
+            "duration": 4
+          },
+          {
+            "code": "050215T",
+            "name": "老挝语",
+            "duration": 4
+          },
+          {
+            "code": "050216T",
+            "name": "缅甸语",
+            "duration": 4
+          },
+          {
+            "code": "050217T",
+            "name": "马来语",
+            "duration": 4
+          },
+          {
+            "code": "050218T",
+            "name": "蒙古语",
+            "duration": 4
+          },
+          {
+            "code": "050219T",
+            "name": "僧伽罗语",
+            "duration": 4
+          },
+          {
+            "code": "050220T",
+            "name": "泰语",
+            "duration": 4
+          },
+          {
+            "code": "050221T",
+            "name": "乌尔都语",
+            "duration": 4
+          },
+          {
+            "code": "050222T",
+            "name": "希伯来语",
+            "duration": 4
+          },
+          {
+            "code": "050223T",
+            "name": "越南语",
+            "duration": 4
+          },
+          {
+            "code": "050224T",
+            "name": "豪萨语",
+            "duration": 4
+          },
+          {
+            "code": "050225T",
+            "name": "斯瓦希里语",
+            "duration": 4
+          },
+          {
+            "code": "050226T",
+            "name": "阿尔巴尼亚语",
+            "duration": 4
+          },
+          {
+            "code": "050227T",
+            "name": "保加利亚语",
+            "duration": 4
+          },
+          {
+            "code": "050228T",
+            "name": "波兰语",
+            "duration": 4
+          },
+          {
+            "code": "050229T",
+            "name": "捷克语",
+            "duration": 4
+          },
+          {
+            "code": "050230T",
+            "name": "丹麦语",
+            "duration": 4
+          },
+          {
+            "code": "050231T",
+            "name": "荷兰语",
+            "duration": 4
+          },
+          {
+            "code": "050232T",
+            "name": "芬兰语",
+            "duration": 4
+          },
+          {
+            "code": "050233T",
+            "name": "希腊语",
+            "duration": 4
+          },
+          {
+            "code": "050234T",
+            "name": "匈牙利语",
+            "duration": 4
+          },
+          {
+            "code": "050235T",
+            "name": "意大利语",
+            "duration": 4
+          },
+          {
+            "code": "050236T",
+            "name": "葡萄牙语",
+            "duration": 4
+          },
+          {
+            "code": "050237T",
+            "name": "瑞典语",
+            "duration": 4
+          },
+          {
+            "code": "050238T",
+            "name": "塞尔维亚语",
+            "duration": 4
+          },
+          {
+            "code": "050239T",
+            "name": "土耳其语",
+            "duration": 4
+          },
+          {
+            "code": "050240T",
+            "name": "祖鲁语",
+            "duration": 4
+          },
+          {
+            "code": "050241T",
+            "name": "爱尔兰语",
+            "duration": 4
+          },
+          {
+            "code": "050242T",
+            "name": "拉脱维亚语",
+            "duration": 4
+          },
+          {
+            "code": "050243T",
+            "name": "立陶宛语",
+            "duration": 4
+          },
+          {
+            "code": "050244T",
+            "name": "斯洛伐克语",
+            "duration": 4
+          },
+          {
+            "code": "050245T",
+            "name": "斯洛文尼亚语",
+            "duration": 4
+          },
+          {
+            "code": "050246T",
+            "name": "克罗地亚语",
+            "duration": 4
+          },
+          {
+            "code": "050247T",
+            "name": "罗马尼亚语",
+            "duration": 4
+          },
+          {
+            "code": "050248T",
+            "name": "冰岛语",
+            "duration": 4
+          },
+          {
+            "code": "050249T",
+            "name": "尼泊尔语",
+            "duration": 4
+          },
+          {
+            "code": "050250T",
+            "name": "土库曼语",
+            "duration": 4
+          },
+          {
+            "code": "050251T",
+            "name": "加泰罗尼亚语",
+            "duration": 4
+          },
+          {
+            "code": "050252T",
+            "name": "约鲁巴语",
+            "duration": 4
+          },
+          {
+            "code": "050253T",
+            "name": "翻译",
+            "duration": 4
+          },
+          {
+            "code": "050254T",
+            "name": "商务英语",
+            "duration": 4
+          }
+        ]
+      },
+      "0503": {
+        "name": "新闻传播学类",
+        "majors": [
+          {
+            "code": "050301",
+            "name": "新闻学",
+            "duration": 4
+          },
+          {
+            "code": "050302",
+            "name": "广播电视学",
+            "duration": 4
+          },
+          {
+            "code": "050303T",
+            "name": "广告学",
+            "duration": 4
+          },
+          {
+            "code": "050304T",
+            "name": "传播学",
+            "duration": 4
+          },
+          {
+            "code": "050305T",
+            "name": "编辑出版学",
+            "duration": 4
+          },
+          {
+            "code": "050306T",
+            "name": "国际新闻与传播",
+            "duration": 4
+          },
+          {
+            "code": "050307T",
+            "name": "新媒体工程",
+            "duration": 4
+          },
+          {
+            "code": "050308T",
+            "name": "网络与新媒体",
+            "duration": 4
+          },
+          {
+            "code": "050309T",
+            "name": "数字出版",
+            "duration": 4
+          },
+          {
+            "code": "050310T",
+            "name": "时尚传播",
+            "duration": 4
+          },
+          {
+            "code": "050311T",
+            "name": "会展",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "06": {
+    "name": "历史学",
+    "categories": {
+      "0601": {
+        "name": "历史学类",
+        "majors": [
+          {
+            "code": "060101",
+            "name": "历史学",
+            "duration": 4
+          },
+          {
+            "code": "060102",
+            "name": "世界史",
+            "duration": 4
+          },
+          {
+            "code": "060103T",
+            "name": "考古学",
+            "duration": 4
+          },
+          {
+            "code": "060104T",
+            "name": "文物与博物馆学",
+            "duration": 4
+          },
+          {
+            "code": "060105T",
+            "name": "文物保护",
+            "duration": 4
+          },
+          {
+            "code": "060106T",
+            "name": "外国语言与外国历史",
+            "duration": 4
+          },
+          {
+            "code": "060107T",
+            "name": "文化遗产",
+            "duration": 4
+          },
+          {
+            "code": "060108T",
+            "name": "古文字学",
+            "duration": 4
+          },
+          {
+            "code": "060109T",
+            "name": "科学史",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "07": {
+    "name": "理学",
+    "categories": {
+      "0701": {
+        "name": "数学类",
+        "majors": [
+          {
+            "code": "070101",
+            "name": "数学与应用数学",
+            "duration": 4
+          },
+          {
+            "code": "070102",
+            "name": "信息与计算科学",
+            "duration": 4
+          },
+          {
+            "code": "070103T",
+            "name": "数理基础科学",
+            "duration": 4
+          },
+          {
+            "code": "070104T",
+            "name": "数据计算及应用",
+            "duration": 4
+          },
+          {
+            "code": "070105T",
+            "name": "智能计算与应用",
+            "duration": 4
+          }
+        ]
+      },
+      "0702": {
+        "name": "物理学类",
+        "majors": [
+          {
+            "code": "070201",
+            "name": "物理学",
+            "duration": 4
+          },
+          {
+            "code": "070202",
+            "name": "应用物理学",
+            "duration": 4
+          },
+          {
+            "code": "070203T",
+            "name": "核物理",
+            "duration": 4
+          },
+          {
+            "code": "070204T",
+            "name": "声学",
+            "duration": 4
+          },
+          {
+            "code": "070205T",
+            "name": "系统科学与工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0703": {
+        "name": "化学类",
+        "majors": [
+          {
+            "code": "070301",
+            "name": "化学",
+            "duration": 4
+          },
+          {
+            "code": "070302",
+            "name": "应用化学",
+            "duration": 4
+          },
+          {
+            "code": "070303T",
+            "name": "化学生物学",
+            "duration": 4
+          },
+          {
+            "code": "070304T",
+            "name": "分子科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "070305T",
+            "name": "能源化学",
+            "duration": 4
+          },
+          {
+            "code": "070306T",
+            "name": "化学测量学与技术",
+            "duration": 4
+          },
+          {
+            "code": "070307T",
+            "name": "资源化学",
+            "duration": 4
+          }
+        ]
+      },
+      "0704": {
+        "name": "天文学类",
+        "majors": [
+          {
+            "code": "070401",
+            "name": "天文学",
+            "duration": 4
+          },
+          {
+            "code": "070402T",
+            "name": "空间科学与技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0705": {
+        "name": "地理科学类",
+        "majors": [
+          {
+            "code": "070501",
+            "name": "地理科学",
+            "duration": 4
+          },
+          {
+            "code": "070502",
+            "name": "自然地理与资源环境",
+            "duration": 4
+          },
+          {
+            "code": "070503T",
+            "name": "人文地理与城乡规划",
+            "duration": 4
+          },
+          {
+            "code": "070504",
+            "name": "地理信息科学",
+            "duration": 4
+          },
+          {
+            "code": "070505T",
+            "name": "地理国情监测",
+            "duration": 4
+          }
+        ]
+      },
+      "0706": {
+        "name": "大气科学类",
+        "majors": [
+          {
+            "code": "070601",
+            "name": "大气科学",
+            "duration": 4
+          },
+          {
+            "code": "070602",
+            "name": "应用气象学",
+            "duration": 4
+          },
+          {
+            "code": "070603T",
+            "name": "大气环境技术",
+            "duration": 4
+          },
+          {
+            "code": "070604T",
+            "name": "气象技术与工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0707": {
+        "name": "海洋科学类",
+        "majors": [
+          {
+            "code": "070701",
+            "name": "海洋科学",
+            "duration": 4
+          },
+          {
+            "code": "070702",
+            "name": "海洋技术",
+            "duration": 4
+          },
+          {
+            "code": "070703T",
+            "name": "海洋资源与环境",
+            "duration": 4
+          },
+          {
+            "code": "070704T",
+            "name": "军事海洋学",
+            "duration": 4
+          }
+        ]
+      },
+      "0708": {
+        "name": "地球物理学类",
+        "majors": [
+          {
+            "code": "070801",
+            "name": "地球物理学",
+            "duration": 4
+          },
+          {
+            "code": "070802T",
+            "name": "空间科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "070803T",
+            "name": "行星科学",
+            "duration": 4
+          }
+        ]
+      },
+      "0709": {
+        "name": "地质学类",
+        "majors": [
+          {
+            "code": "070901",
+            "name": "地质学",
+            "duration": 4
+          },
+          {
+            "code": "070902",
+            "name": "地球化学",
+            "duration": 4
+          },
+          {
+            "code": "070903T",
+            "name": "地球信息科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "070904T",
+            "name": "古生物学",
+            "duration": 4
+          }
+        ]
+      },
+      "0710": {
+        "name": "生物科学类",
+        "majors": [
+          {
+            "code": "071001",
+            "name": "生物科学",
+            "duration": 4
+          },
+          {
+            "code": "071002",
+            "name": "生物技术",
+            "duration": 4
+          },
+          {
+            "code": "071003",
+            "name": "生物信息学",
+            "duration": 4
+          },
+          {
+            "code": "071004",
+            "name": "生态学",
+            "duration": 4
+          },
+          {
+            "code": "071005T",
+            "name": "整合科学",
+            "duration": 4
+          },
+          {
+            "code": "071006T",
+            "name": "神经科学",
+            "duration": 4
+          },
+          {
+            "code": "071007T",
+            "name": "合成生物学",
+            "duration": 4
+          }
+        ]
+      },
+      "0711": {
+        "name": "心理学类",
+        "majors": [
+          {
+            "code": "071101",
+            "name": "心理学",
+            "duration": 4
+          },
+          {
+            "code": "071102",
+            "name": "应用心理学",
+            "duration": 4
+          },
+          {
+            "code": "071103T",
+            "name": "心理咨询",
+            "duration": 4
+          }
+        ]
+      },
+      "0712": {
+        "name": "统计学类",
+        "majors": [
+          {
+            "code": "071201",
+            "name": "统计学",
+            "duration": 4
+          },
+          {
+            "code": "071202",
+            "name": "应用统计学",
+            "duration": 4
+          },
+          {
+            "code": "071203T",
+            "name": "数据科学",
+            "duration": 4
+          },
+          {
+            "code": "071204T",
+            "name": "生物统计学",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "08": {
+    "name": "工学",
+    "categories": {
+      "0801": {
+        "name": "力学类",
+        "majors": [
+          {
+            "code": "080101",
+            "name": "理论与应用力学",
+            "duration": 4
+          },
+          {
+            "code": "080102",
+            "name": "工程力学",
+            "duration": 4
+          },
+          {
+            "code": "080103T",
+            "name": "工程结构分析",
+            "duration": 4
+          }
+        ]
+      },
+      "0802": {
+        "name": "机械类",
+        "majors": [
+          {
+            "code": "080201",
+            "name": "机械工程",
+            "duration": 4
+          },
+          {
+            "code": "080202",
+            "name": "机械设计制造及其自动化",
+            "duration": 4
+          },
+          {
+            "code": "080203",
+            "name": "材料成型及控制工程",
+            "duration": 4
+          },
+          {
+            "code": "080204",
+            "name": "机械电子工程",
+            "duration": 4
+          },
+          {
+            "code": "080205",
+            "name": "工业设计",
+            "duration": 4
+          },
+          {
+            "code": "080206",
+            "name": "过程装备与控制工程",
+            "duration": 4
+          },
+          {
+            "code": "080207",
+            "name": "车辆工程",
+            "duration": 4
+          },
+          {
+            "code": "080208T",
+            "name": "汽车服务工程",
+            "duration": 4
+          },
+          {
+            "code": "080209T",
+            "name": "机械工艺技术",
+            "duration": 4
+          },
+          {
+            "code": "080210T",
+            "name": "微机电系统工程",
+            "duration": 4
+          },
+          {
+            "code": "080211T",
+            "name": "机电技术教育",
+            "duration": 4
+          },
+          {
+            "code": "080212T",
+            "name": "汽车维修工程教育",
+            "duration": 4
+          },
+          {
+            "code": "080213T",
+            "name": "智能制造工程",
+            "duration": 4
+          },
+          {
+            "code": "080214T",
+            "name": "智能车辆工程",
+            "duration": 4
+          },
+          {
+            "code": "080215T",
+            "name": "仿生科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080216T",
+            "name": "增材制造工程",
+            "duration": 4
+          },
+          {
+            "code": "080217T",
+            "name": "智能交互设计",
+            "duration": 4
+          },
+          {
+            "code": "080218T",
+            "name": "农林动力机械",
+            "duration": 4
+          },
+          {
+            "code": "080219T",
+            "name": "装备智能化技术",
+            "duration": 4
+          },
+          {
+            "code": "080220T",
+            "name": "铁路工务技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0803": {
+        "name": "仪器类",
+        "majors": [
+          {
+            "code": "080301",
+            "name": "测控技术与仪器",
+            "duration": 4
+          },
+          {
+            "code": "080302T",
+            "name": "精密仪器",
+            "duration": 4
+          },
+          {
+            "code": "080303T",
+            "name": "智能感知工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0804": {
+        "name": "材料类",
+        "majors": [
+          {
+            "code": "080401",
+            "name": "材料科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080402",
+            "name": "材料物理",
+            "duration": 4
+          },
+          {
+            "code": "080403",
+            "name": "材料化学",
+            "duration": 4
+          },
+          {
+            "code": "080404",
+            "name": "冶金工程",
+            "duration": 4
+          },
+          {
+            "code": "080405",
+            "name": "金属材料工程",
+            "duration": 4
+          },
+          {
+            "code": "080406",
+            "name": "无机非金属材料工程",
+            "duration": 4
+          },
+          {
+            "code": "080407",
+            "name": "高分子材料与工程",
+            "duration": 4
+          },
+          {
+            "code": "080408T",
+            "name": "复合材料与工程",
+            "duration": 4
+          },
+          {
+            "code": "080409T",
+            "name": "粉体材料科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080410T",
+            "name": "宝石及材料工艺学",
+            "duration": 4
+          },
+          {
+            "code": "080411T",
+            "name": "焊接技术与工程",
+            "duration": 4
+          },
+          {
+            "code": "080412T",
+            "name": "功能材料",
+            "duration": 4
+          },
+          {
+            "code": "080413T",
+            "name": "纳米材料与技术",
+            "duration": 4
+          },
+          {
+            "code": "080414T",
+            "name": "新能源材料与器件",
+            "duration": 4
+          },
+          {
+            "code": "080415T",
+            "name": "材料设计科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080416T",
+            "name": "复合材料成型工程",
+            "duration": 4
+          },
+          {
+            "code": "080417T",
+            "name": "智能材料与结构技术",
+            "duration": 4
+          },
+          {
+            "code": "080418T",
+            "name": "光电信息材料与器件",
+            "duration": 4
+          }
+        ]
+      },
+      "0805": {
+        "name": "能源动力类",
+        "majors": [
+          {
+            "code": "080501",
+            "name": "能源与动力工程",
+            "duration": 4
+          },
+          {
+            "code": "080502T",
+            "name": "能源与环境系统工程",
+            "duration": 4
+          },
+          {
+            "code": "080503T",
+            "name": "新能源科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080504T",
+            "name": "储能科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080505T",
+            "name": "能源服务工程",
+            "duration": 4
+          },
+          {
+            "code": "080506T",
+            "name": "氢能科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080507T",
+            "name": "碳储科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080508T",
+            "name": "能源互联网工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0806": {
+        "name": "电气类",
+        "majors": [
+          {
+            "code": "080601",
+            "name": "电气工程及其自动化",
+            "duration": 4
+          },
+          {
+            "code": "080602T",
+            "name": "智能电网信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080603T",
+            "name": "光源与照明",
+            "duration": 4
+          },
+          {
+            "code": "080604T",
+            "name": "电气工程与智能控制",
+            "duration": 4
+          },
+          {
+            "code": "080605T",
+            "name": "电机电器智能化",
+            "duration": 4
+          },
+          {
+            "code": "080606T",
+            "name": "电缆工程",
+            "duration": 4
+          },
+          {
+            "code": "080607T",
+            "name": "能源互联网工程",
+            "duration": 4
+          },
+          {
+            "code": "080608T",
+            "name": "智慧能源工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0807": {
+        "name": "电子信息类",
+        "majors": [
+          {
+            "code": "080701",
+            "name": "电子信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080702",
+            "name": "电子科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080703",
+            "name": "通信工程",
+            "duration": 4
+          },
+          {
+            "code": "080704",
+            "name": "微电子科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080705",
+            "name": "光电信息科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080706",
+            "name": "信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080707T",
+            "name": "广播电视工程",
+            "duration": 4
+          },
+          {
+            "code": "080708T",
+            "name": "水声工程",
+            "duration": 4
+          },
+          {
+            "code": "080709T",
+            "name": "电子封装技术",
+            "duration": 4
+          },
+          {
+            "code": "080710T",
+            "name": "导航工程",
+            "duration": 4
+          },
+          {
+            "code": "080711T",
+            "name": "雷达工程",
+            "duration": 4
+          },
+          {
+            "code": "080712T",
+            "name": "集成电路设计与集成系统",
+            "duration": 4
+          },
+          {
+            "code": "080713T",
+            "name": "医学信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080714T",
+            "name": "电磁场与无线技术",
+            "duration": 4
+          },
+          {
+            "code": "080715T",
+            "name": "电波传播与天线",
+            "duration": 4
+          },
+          {
+            "code": "080716T",
+            "name": "人工智能",
+            "duration": 4
+          },
+          {
+            "code": "080717T",
+            "name": "海洋信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080718T",
+            "name": "集成电路科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "080719T",
+            "name": "柔性电子学",
+            "duration": 4
+          },
+          {
+            "code": "080720T",
+            "name": "智能视觉信息工程",
+            "duration": 4
+          },
+          {
+            "code": "080721T",
+            "name": "空间信息与数字技术",
+            "duration": 4
+          },
+          {
+            "code": "080722T",
+            "name": "电子信息科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080723T",
+            "name": "电信工程及管理",
+            "duration": 4
+          },
+          {
+            "code": "080724T",
+            "name": "应用电子技术教育",
+            "duration": 4
+          }
+        ]
+      },
+      "0808": {
+        "name": "自动化类",
+        "majors": [
+          {
+            "code": "080801",
+            "name": "自动化",
+            "duration": 4
+          },
+          {
+            "code": "080802T",
+            "name": "轨道交通信号与控制",
+            "duration": 4
+          },
+          {
+            "code": "080803T",
+            "name": "机器人工程",
+            "duration": 4
+          },
+          {
+            "code": "080804T",
+            "name": "邮政工程",
+            "duration": 4
+          },
+          {
+            "code": "080805T",
+            "name": "核电技术与控制工程",
+            "duration": 4
+          },
+          {
+            "code": "080806T",
+            "name": "智能装备与系统",
+            "duration": 4
+          },
+          {
+            "code": "080807T",
+            "name": "工业智能",
+            "duration": 4
+          },
+          {
+            "code": "080808T",
+            "name": "智能科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080809T",
+            "name": "导航技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0809": {
+        "name": "计算机类",
+        "majors": [
+          {
+            "code": "080901",
+            "name": "计算机科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080902",
+            "name": "软件工程",
+            "duration": 4
+          },
+          {
+            "code": "080903",
+            "name": "网络工程",
+            "duration": 4
+          },
+          {
+            "code": "080904K",
+            "name": "信息安全",
+            "duration": 4
+          },
+          {
+            "code": "080905",
+            "name": "物联网工程",
+            "duration": 4
+          },
+          {
+            "code": "080906",
+            "name": "数字媒体技术",
+            "duration": 4
+          },
+          {
+            "code": "080907T",
+            "name": "智能科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080908T",
+            "name": "空间信息与数字技术",
+            "duration": 4
+          },
+          {
+            "code": "080909T",
+            "name": "电子与计算机工程",
+            "duration": 4
+          },
+          {
+            "code": "080910T",
+            "name": "数据科学与大数据技术",
+            "duration": 4
+          },
+          {
+            "code": "080911T",
+            "name": "网络空间安全",
+            "duration": 4
+          },
+          {
+            "code": "080912T",
+            "name": "新媒体技术",
+            "duration": 4
+          },
+          {
+            "code": "080913T",
+            "name": "电影制作",
+            "duration": 4
+          },
+          {
+            "code": "080914T",
+            "name": "保密技术",
+            "duration": 4
+          },
+          {
+            "code": "080915T",
+            "name": "电子竞技科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "080916T",
+            "name": "虚拟现实技术",
+            "duration": 4
+          },
+          {
+            "code": "080917T",
+            "name": "人工智能",
+            "duration": 4
+          },
+          {
+            "code": "080918T",
+            "name": "区块链工程",
+            "duration": 4
+          },
+          {
+            "code": "080919T",
+            "name": "计算机技术",
+            "duration": 4
+          },
+          {
+            "code": "080920T",
+            "name": "网络工程技术",
+            "duration": 4
+          },
+          {
+            "code": "080921T",
+            "name": "软件技术",
+            "duration": 4
+          },
+          {
+            "code": "080922T",
+            "name": "数字媒体技术应用",
+            "duration": 4
+          },
+          {
+            "code": "080923T",
+            "name": "大数据技术",
+            "duration": 4
+          },
+          {
+            "code": "080924T",
+            "name": "云计算技术",
+            "duration": 4
+          },
+          {
+            "code": "080925T",
+            "name": "人工智能技术",
+            "duration": 4
+          },
+          {
+            "code": "080926T",
+            "name": "虚拟现实应用技术",
+            "duration": 4
+          },
+          {
+            "code": "080927T",
+            "name": "信息安全与管理",
+            "duration": 4
+          },
+          {
+            "code": "080928T",
+            "name": "网络与信息安全",
+            "duration": 4
+          },
+          {
+            "code": "080929T",
+            "name": "区块链技术应用",
+            "duration": 4
+          }
+        ]
+      },
+      "0810": {
+        "name": "土木类",
+        "majors": [
+          {
+            "code": "081001",
+            "name": "土木工程",
+            "duration": 4
+          },
+          {
+            "code": "081002",
+            "name": "建筑环境与能源应用工程",
+            "duration": 4
+          },
+          {
+            "code": "081003",
+            "name": "给排水科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "081004",
+            "name": "建筑电气与智能化",
+            "duration": 4
+          },
+          {
+            "code": "081005T",
+            "name": "城市地下空间工程",
+            "duration": 4
+          },
+          {
+            "code": "081006T",
+            "name": "道路桥梁与渡河工程",
+            "duration": 4
+          },
+          {
+            "code": "081007T",
+            "name": "铁道工程",
+            "duration": 4
+          },
+          {
+            "code": "081008T",
+            "name": "智能建造",
+            "duration": 4
+          },
+          {
+            "code": "081009T",
+            "name": "土木、水利与海洋工程",
+            "duration": 4
+          },
+          {
+            "code": "081010T",
+            "name": "土木、水利与交通工程",
+            "duration": 4
+          },
+          {
+            "code": "081011T",
+            "name": "城市水系统工程",
+            "duration": 4
+          },
+          {
+            "code": "081012T",
+            "name": "智能制造工程",
+            "duration": 4
+          },
+          {
+            "code": "081013T",
+            "name": "绿色低碳建筑",
+            "duration": 4
+          },
+          {
+            "code": "081014T",
+            "name": "建筑智能建造技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0811": {
+        "name": "水利类",
+        "majors": [
+          {
+            "code": "081101",
+            "name": "水利水电工程",
+            "duration": 4
+          },
+          {
+            "code": "081102",
+            "name": "水文与水资源工程",
+            "duration": 4
+          },
+          {
+            "code": "081103",
+            "name": "港口航道与海岸工程",
+            "duration": 4
+          },
+          {
+            "code": "081104T",
+            "name": "水务工程",
+            "duration": 4
+          },
+          {
+            "code": "081105T",
+            "name": "水利科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "081106T",
+            "name": "智慧水利",
+            "duration": 4
+          }
+        ]
+      },
+      "0812": {
+        "name": "测绘类",
+        "majors": [
+          {
+            "code": "081201",
+            "name": "测绘工程",
+            "duration": 4
+          },
+          {
+            "code": "081202",
+            "name": "遥感科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "081203T",
+            "name": "导航工程",
+            "duration": 4
+          },
+          {
+            "code": "081204T",
+            "name": "地理空间信息工程",
+            "duration": 4
+          },
+          {
+            "code": "081205T",
+            "name": "测绘科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "081206T",
+            "name": "时空信息工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0813": {
+        "name": "化工与制药类",
+        "majors": [
+          {
+            "code": "081301",
+            "name": "化学工程与工艺",
+            "duration": 4
+          },
+          {
+            "code": "081302",
+            "name": "制药工程",
+            "duration": 4
+          },
+          {
+            "code": "081303T",
+            "name": "资源循环科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "081304T",
+            "name": "能源化学工程",
+            "duration": 4
+          },
+          {
+            "code": "081305T",
+            "name": "化学工程与工业生物工程",
+            "duration": 4
+          },
+          {
+            "code": "081306T",
+            "name": "化工安全工程",
+            "duration": 4
+          },
+          {
+            "code": "081307T",
+            "name": "涂料工程",
+            "duration": 4
+          },
+          {
+            "code": "081308T",
+            "name": "精细化工",
+            "duration": 4
+          },
+          {
+            "code": "081309T",
+            "name": "石油工程",
+            "duration": 4
+          },
+          {
+            "code": "081310T",
+            "name": "海洋油气工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0814": {
+        "name": "地质类",
+        "majors": [
+          {
+            "code": "081401",
+            "name": "地质工程",
+            "duration": 4
+          },
+          {
+            "code": "081402",
+            "name": "勘查技术与工程",
+            "duration": 4
+          },
+          {
+            "code": "081403",
+            "name": "资源勘查工程",
+            "duration": 4
+          },
+          {
+            "code": "081404T",
+            "name": "地下水科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "081405T",
+            "name": "旅游地学与规划工程",
+            "duration": 4
+          },
+          {
+            "code": "081406T",
+            "name": "地质类",
+            "duration": 4
+          },
+          {
+            "code": "081407T",
+            "name": "资源环境大数据工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0815": {
+        "name": "矿业类",
+        "majors": [
+          {
+            "code": "081501",
+            "name": "采矿工程",
+            "duration": 4
+          },
+          {
+            "code": "081502",
+            "name": "石油工程",
+            "duration": 4
+          },
+          {
+            "code": "081503T",
+            "name": "矿物加工工程",
+            "duration": 4
+          },
+          {
+            "code": "081504T",
+            "name": "油气储运工程",
+            "duration": 4
+          },
+          {
+            "code": "081505T",
+            "name": "矿物资源工程",
+            "duration": 4
+          },
+          {
+            "code": "081506T",
+            "name": "海洋油气工程",
+            "duration": 4
+          },
+          {
+            "code": "081507T",
+            "name": "智能采矿工程",
+            "duration": 4
+          },
+          {
+            "code": "081508T",
+            "name": "碳储科学与工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0816": {
+        "name": "纺织类",
+        "majors": [
+          {
+            "code": "081601",
+            "name": "纺织工程",
+            "duration": 4
+          },
+          {
+            "code": "081602",
+            "name": "服装设计与工程",
+            "duration": 4
+          },
+          {
+            "code": "081603T",
+            "name": "非织造材料与工程",
+            "duration": 4
+          },
+          {
+            "code": "081604T",
+            "name": "服装设计与工艺教育",
+            "duration": 4
+          },
+          {
+            "code": "081605T",
+            "name": "丝绸设计与工程",
+            "duration": 4
+          },
+          {
+            "code": "081606T",
+            "name": "数字化染整工程",
+            "duration": 4
+          },
+          {
+            "code": "081607T",
+            "name": "纺织创意设计",
+            "duration": 4
+          }
+        ]
+      },
+      "0817": {
+        "name": "轻工类",
+        "majors": [
+          {
+            "code": "081701",
+            "name": "轻化工程",
+            "duration": 4
+          },
+          {
+            "code": "081702",
+            "name": "包装工程",
+            "duration": 4
+          },
+          {
+            "code": "081703",
+            "name": "印刷工程",
+            "duration": 4
+          },
+          {
+            "code": "081704T",
+            "name": "香料香精技术与工程",
+            "duration": 4
+          },
+          {
+            "code": "081705T",
+            "name": "化妆品技术与工程",
+            "duration": 4
+          },
+          {
+            "code": "081706T",
+            "name": "生物质科学与工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0818": {
+        "name": "交通运输类",
+        "majors": [
+          {
+            "code": "081801",
+            "name": "交通运输",
+            "duration": 4
+          },
+          {
+            "code": "081802",
+            "name": "交通工程",
+            "duration": 4
+          },
+          {
+            "code": "081803K",
+            "name": "航海技术",
+            "duration": 4
+          },
+          {
+            "code": "081804K",
+            "name": "轮机工程",
+            "duration": 4
+          },
+          {
+            "code": "081805K",
+            "name": "飞行技术",
+            "duration": 4
+          },
+          {
+            "code": "081806T",
+            "name": "交通设备与控制工程",
+            "duration": 4
+          },
+          {
+            "code": "081807T",
+            "name": "救助与打捞工程",
+            "duration": 4
+          },
+          {
+            "code": "081808T",
+            "name": "船舶电子电气工程",
+            "duration": 4
+          },
+          {
+            "code": "081809T",
+            "name": "轨道交通电气与控制",
+            "duration": 4
+          },
+          {
+            "code": "081810T",
+            "name": "邮轮工程与管理",
+            "duration": 4
+          },
+          {
+            "code": "081811T",
+            "name": "智慧交通",
+            "duration": 4
+          },
+          {
+            "code": "081812T",
+            "name": "智能运输工程",
+            "duration": 4
+          },
+          {
+            "code": "081813T",
+            "name": "车辆工程",
+            "duration": 4
+          },
+          {
+            "code": "081814T",
+            "name": "汽车服务工程",
+            "duration": 4
+          },
+          {
+            "code": "081815T",
+            "name": "汽车维修工程教育",
+            "duration": 4
+          }
+        ]
+      },
+      "0819": {
+        "name": "海洋工程类",
+        "majors": [
+          {
+            "code": "081901",
+            "name": "船舶与海洋工程",
+            "duration": 4
+          },
+          {
+            "code": "081902T",
+            "name": "海洋工程与技术",
+            "duration": 4
+          },
+          {
+            "code": "081903T",
+            "name": "海洋资源开发技术",
+            "duration": 4
+          },
+          {
+            "code": "081904T",
+            "name": "舰船与海上平台",
+            "duration": 4
+          },
+          {
+            "code": "081905T",
+            "name": "海洋工程",
+            "duration": 4
+          },
+          {
+            "code": "081906T",
+            "name": "智慧海洋技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0820": {
+        "name": "航空航天类",
+        "majors": [
+          {
+            "code": "082001",
+            "name": "航空航天工程",
+            "duration": 4
+          },
+          {
+            "code": "082002",
+            "name": "飞行器设计与工程",
+            "duration": 4
+          },
+          {
+            "code": "082003",
+            "name": "飞行器制造工程",
+            "duration": 4
+          },
+          {
+            "code": "082004",
+            "name": "飞行器动力工程",
+            "duration": 4
+          },
+          {
+            "code": "082005",
+            "name": "飞行器环境与生命保障工程",
+            "duration": 4
+          },
+          {
+            "code": "082006T",
+            "name": "飞行器质量与可靠性",
+            "duration": 4
+          },
+          {
+            "code": "082007T",
+            "name": "飞行器适航技术",
+            "duration": 4
+          },
+          {
+            "code": "082008T",
+            "name": "飞行器控制与信息工程",
+            "duration": 4
+          },
+          {
+            "code": "082009T",
+            "name": "无人驾驶航空器系统工程",
+            "duration": 4
+          },
+          {
+            "code": "082010T",
+            "name": "智能飞行器技术",
+            "duration": 4
+          },
+          {
+            "code": "082011T",
+            "name": "空天智能电推进技术",
+            "duration": 4
+          },
+          {
+            "code": "082012T",
+            "name": "卫星导航与信息服务",
+            "duration": 4
+          }
+        ]
+      },
+      "0821": {
+        "name": "核工程类",
+        "majors": [
+          {
+            "code": "082101",
+            "name": "核工程与核技术",
+            "duration": 4
+          },
+          {
+            "code": "082102",
+            "name": "辐射防护与核安全",
+            "duration": 4
+          },
+          {
+            "code": "082103",
+            "name": "工程物理",
+            "duration": 4
+          },
+          {
+            "code": "082104",
+            "name": "核化工与核燃料工程",
+            "duration": 4
+          },
+          {
+            "code": "082105T",
+            "name": "核反应堆工程",
+            "duration": 4
+          },
+          {
+            "code": "082106T",
+            "name": "核技术",
+            "duration": 4
+          },
+          {
+            "code": "082107T",
+            "name": "辐射防护",
+            "duration": 4
+          }
+        ]
+      },
+      "0823": {
+        "name": "农业工程类",
+        "majors": [
+          {
+            "code": "082301",
+            "name": "农业工程",
+            "duration": 4
+          },
+          {
+            "code": "082302",
+            "name": "农业机械化及其自动化",
+            "duration": 4
+          },
+          {
+            "code": "082303",
+            "name": "农业电气化",
+            "duration": 4
+          },
+          {
+            "code": "082304",
+            "name": "农业建筑环境与能源工程",
+            "duration": 4
+          },
+          {
+            "code": "082305",
+            "name": "农业水利工程",
+            "duration": 4
+          },
+          {
+            "code": "082306T",
+            "name": "土地整治工程",
+            "duration": 4
+          },
+          {
+            "code": "082307T",
+            "name": "农业智能装备工程",
+            "duration": 4
+          },
+          {
+            "code": "082308T",
+            "name": "智慧水利与农业",
+            "duration": 4
+          },
+          {
+            "code": "082309T",
+            "name": "农业机器人工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0824": {
+        "name": "林业工程类",
+        "majors": [
+          {
+            "code": "082401",
+            "name": "森林工程",
+            "duration": 4
+          },
+          {
+            "code": "082402",
+            "name": "木材科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082403",
+            "name": "林产化工",
+            "duration": 4
+          },
+          {
+            "code": "082404T",
+            "name": "家具设计与工程",
+            "duration": 4
+          },
+          {
+            "code": "082405T",
+            "name": "木结构建筑与材料",
+            "duration": 4
+          }
+        ]
+      },
+      "0825": {
+        "name": "环境科学与工程类",
+        "majors": [
+          {
+            "code": "082501",
+            "name": "环境科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082502",
+            "name": "环境工程",
+            "duration": 4
+          },
+          {
+            "code": "082503",
+            "name": "环境科学",
+            "duration": 4
+          },
+          {
+            "code": "082504",
+            "name": "环境生态工程",
+            "duration": 4
+          },
+          {
+            "code": "082505T",
+            "name": "环保设备工程",
+            "duration": 4
+          },
+          {
+            "code": "082506T",
+            "name": "资源环境科学",
+            "duration": 4
+          },
+          {
+            "code": "082507T",
+            "name": "水质科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "082508T",
+            "name": "能源与环境系统工程",
+            "duration": 4
+          },
+          {
+            "code": "082509T",
+            "name": "环保机械工程",
+            "duration": 4
+          },
+          {
+            "code": "082510T",
+            "name": "资源循环科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082511T",
+            "name": "新能源科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082512T",
+            "name": "城市水系统工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0826": {
+        "name": "生物医学工程类",
+        "majors": [
+          {
+            "code": "082601",
+            "name": "生物医学工程",
+            "duration": 4
+          },
+          {
+            "code": "082602T",
+            "name": "假肢矫形工程",
+            "duration": 4
+          },
+          {
+            "code": "082603T",
+            "name": "临床工程技术",
+            "duration": 4
+          },
+          {
+            "code": "082604T",
+            "name": "康复工程",
+            "duration": 4
+          },
+          {
+            "code": "082605T",
+            "name": "健康科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "082606T",
+            "name": "智能医学工程",
+            "duration": 4
+          },
+          {
+            "code": "082607T",
+            "name": "医疗器械工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0827": {
+        "name": "食品科学与工程类",
+        "majors": [
+          {
+            "code": "082701",
+            "name": "食品科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082702",
+            "name": "食品质量与安全",
+            "duration": 4
+          },
+          {
+            "code": "082703",
+            "name": "粮食工程",
+            "duration": 4
+          },
+          {
+            "code": "082704",
+            "name": "乳品工程",
+            "duration": 4
+          },
+          {
+            "code": "082705",
+            "name": "酿酒工程",
+            "duration": 4
+          },
+          {
+            "code": "082706T",
+            "name": "葡萄与葡萄酒工程",
+            "duration": 4
+          },
+          {
+            "code": "082707T",
+            "name": "食品营养与检验教育",
+            "duration": 4
+          },
+          {
+            "code": "082708T",
+            "name": "烹饪与营养教育",
+            "duration": 4
+          },
+          {
+            "code": "082709T",
+            "name": "食品安全与检测",
+            "duration": 4
+          },
+          {
+            "code": "082710T",
+            "name": "食品营养与健康",
+            "duration": 4
+          },
+          {
+            "code": "082711T",
+            "name": "食用菌科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "082712T",
+            "name": "白酒酿造工程",
+            "duration": 4
+          }
+        ]
+      },
+      "0828": {
+        "name": "建筑类",
+        "majors": [
+          {
+            "code": "082801",
+            "name": "建筑学",
+            "duration": 5
+          },
+          {
+            "code": "082802",
+            "name": "城乡规划",
+            "duration": 5
+          },
+          {
+            "code": "082803",
+            "name": "风景园林",
+            "duration": 4
+          },
+          {
+            "code": "082804T",
+            "name": "历史建筑保护工程",
+            "duration": 4
+          },
+          {
+            "code": "082805T",
+            "name": "人居环境科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "082806T",
+            "name": "城市设计",
+            "duration": 4
+          },
+          {
+            "code": "082807T",
+            "name": "智慧建筑与建造",
+            "duration": 4
+          }
+        ]
+      },
+      "0829": {
+        "name": "安全科学与工程类",
+        "majors": [
+          {
+            "code": "082901",
+            "name": "安全工程",
+            "duration": 4
+          },
+          {
+            "code": "082902T",
+            "name": "应急技术与管理",
+            "duration": 4
+          },
+          {
+            "code": "082903T",
+            "name": "职业卫生工程",
+            "duration": 4
+          },
+          {
+            "code": "082904T",
+            "name": "安全监管",
+            "duration": 4
+          },
+          {
+            "code": "082905T",
+            "name": "安全应急",
+            "duration": 4
+          }
+        ]
+      },
+      "0830": {
+        "name": "生物工程类",
+        "majors": [
+          {
+            "code": "083001",
+            "name": "生物工程",
+            "duration": 4
+          },
+          {
+            "code": "083002T",
+            "name": "生物制药",
+            "duration": 4
+          },
+          {
+            "code": "083003T",
+            "name": "合成生物学",
+            "duration": 4
+          },
+          {
+            "code": "083004T",
+            "name": "智能医学工程",
+            "duration": 4
+          },
+          {
+            "code": "083005T",
+            "name": "生物材料与功能制品",
+            "duration": 4
+          },
+          {
+            "code": "083006T",
+            "name": "生物科学技术",
+            "duration": 4
+          },
+          {
+            "code": "083007T",
+            "name": "农业生物技术",
+            "duration": 4
+          }
+        ]
+      },
+      "0831": {
+        "name": "公安技术类",
+        "majors": [
+          {
+            "code": "083101K",
+            "name": "刑事科学技术",
+            "duration": 4
+          },
+          {
+            "code": "083102K",
+            "name": "消防工程",
+            "duration": 4
+          },
+          {
+            "code": "083103K",
+            "name": "交通管理工程",
+            "duration": 4
+          },
+          {
+            "code": "083104K",
+            "name": "安全防范工程",
+            "duration": 4
+          },
+          {
+            "code": "083105K",
+            "name": "公安视听技术",
+            "duration": 4
+          },
+          {
+            "code": "083106K",
+            "name": "抢险救援",
+            "duration": 4
+          },
+          {
+            "code": "083107K",
+            "name": "网络安全与执法",
+            "duration": 4
+          },
+          {
+            "code": "083108K",
+            "name": "核生化消防",
+            "duration": 4
+          },
+          {
+            "code": "083109K",
+            "name": "海警舰艇指挥与技术",
+            "duration": 4
+          },
+          {
+            "code": "083110K",
+            "name": "数据警务技术",
+            "duration": 4
+          },
+          {
+            "code": "083111K",
+            "name": "食品药品环境犯罪侦查技术",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "09": {
+    "name": "农学",
+    "categories": {
+      "0901": {
+        "name": "植物生产类",
+        "majors": [
+          {
+            "code": "090101",
+            "name": "农学",
+            "duration": 4
+          },
+          {
+            "code": "090102",
+            "name": "园艺",
+            "duration": 4
+          },
+          {
+            "code": "090103T",
+            "name": "植物保护",
+            "duration": 4
+          },
+          {
+            "code": "090104T",
+            "name": "植物科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "090105T",
+            "name": "种子科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "090106T",
+            "name": "设施农业科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "090107T",
+            "name": "茶学",
+            "duration": 4
+          },
+          {
+            "code": "090108T",
+            "name": "烟草",
+            "duration": 4
+          },
+          {
+            "code": "090109T",
+            "name": "应用生物科学",
+            "duration": 4
+          },
+          {
+            "code": "090110T",
+            "name": "农艺教育",
+            "duration": 4
+          },
+          {
+            "code": "090111T",
+            "name": "园艺教育",
+            "duration": 4
+          },
+          {
+            "code": "090112T",
+            "name": "智慧农业",
+            "duration": 4
+          },
+          {
+            "code": "090113T",
+            "name": "菌物科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "090114T",
+            "name": "农药与化肥",
+            "duration": 4
+          },
+          {
+            "code": "090115T",
+            "name": "热带作物",
+            "duration": 4
+          }
+        ]
+      },
+      "0902": {
+        "name": "自然保护与环境生态类",
+        "majors": [
+          {
+            "code": "090201",
+            "name": "农业资源与环境",
+            "duration": 4
+          },
+          {
+            "code": "090202",
+            "name": "野生动物与自然保护区管理",
+            "duration": 4
+          },
+          {
+            "code": "090203T",
+            "name": "水土保持与荒漠化防治",
+            "duration": 4
+          },
+          {
+            "code": "090204T",
+            "name": "生物质科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "090205T",
+            "name": "生态修复学",
+            "duration": 4
+          },
+          {
+            "code": "090206T",
+            "name": "国家公园建设与管理",
+            "duration": 4
+          }
+        ]
+      },
+      "0903": {
+        "name": "动物生产类",
+        "majors": [
+          {
+            "code": "090301",
+            "name": "动物科学",
+            "duration": 4
+          },
+          {
+            "code": "090302T",
+            "name": "蚕学",
+            "duration": 4
+          },
+          {
+            "code": "090303T",
+            "name": "蜂学",
+            "duration": 4
+          },
+          {
+            "code": "090304T",
+            "name": "经济动物学",
+            "duration": 4
+          },
+          {
+            "code": "090305T",
+            "name": "动物医学",
+            "duration": 4
+          },
+          {
+            "code": "090306T",
+            "name": "动物药学",
+            "duration": 4
+          },
+          {
+            "code": "090307T",
+            "name": "动植物检疫",
+            "duration": 4
+          },
+          {
+            "code": "090308T",
+            "name": "实验动物学",
+            "duration": 4
+          },
+          {
+            "code": "090309T",
+            "name": "兽医公共卫生",
+            "duration": 4
+          },
+          {
+            "code": "090310T",
+            "name": "动物科学教育",
+            "duration": 4
+          }
+        ]
+      },
+      "0904": {
+        "name": "动物医学类",
+        "majors": [
+          {
+            "code": "090401",
+            "name": "动物医学",
+            "duration": 4
+          },
+          {
+            "code": "090402",
+            "name": "动物药学",
+            "duration": 4
+          },
+          {
+            "code": "090403T",
+            "name": "动植物检疫",
+            "duration": 4
+          },
+          {
+            "code": "090404T",
+            "name": "实验动物学",
+            "duration": 4
+          },
+          {
+            "code": "090405T",
+            "name": "兽医公共卫生",
+            "duration": 4
+          },
+          {
+            "code": "090406T",
+            "name": "中兽医学",
+            "duration": 4
+          }
+        ]
+      },
+      "0905": {
+        "name": "林学类",
+        "majors": [
+          {
+            "code": "090501",
+            "name": "林学",
+            "duration": 4
+          },
+          {
+            "code": "090502",
+            "name": "园林",
+            "duration": 4
+          },
+          {
+            "code": "090503T",
+            "name": "森林保护",
+            "duration": 4
+          },
+          {
+            "code": "090504T",
+            "name": "经济林",
+            "duration": 4
+          },
+          {
+            "code": "090505T",
+            "name": "智慧林业",
+            "duration": 4
+          },
+          {
+            "code": "090506T",
+            "name": "林学教育",
+            "duration": 4
+          }
+        ]
+      },
+      "0906": {
+        "name": "水产类",
+        "majors": [
+          {
+            "code": "090601",
+            "name": "水产养殖学",
+            "duration": 4
+          },
+          {
+            "code": "090602",
+            "name": "海洋渔业科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "090603T",
+            "name": "水族科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "090604T",
+            "name": "水生动物医学",
+            "duration": 4
+          },
+          {
+            "code": "090605T",
+            "name": "海洋资源与环境",
+            "duration": 4
+          },
+          {
+            "code": "090606T",
+            "name": "渔业发展",
+            "duration": 4
+          }
+        ]
+      },
+      "0907": {
+        "name": "草学类",
+        "majors": [
+          {
+            "code": "090701",
+            "name": "草业科学",
+            "duration": 4
+          },
+          {
+            "code": "090702T",
+            "name": "草坪科学与工程",
+            "duration": 4
+          },
+          {
+            "code": "090703T",
+            "name": "草业科学教育",
+            "duration": 4
+          },
+          {
+            "code": "090704T",
+            "name": "草原学",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "10": {
+    "name": "医学",
+    "categories": {
+      "1001": {
+        "name": "基础医学类",
+        "majors": [
+          {
+            "code": "100101K",
+            "name": "基础医学",
+            "duration": 5
+          },
+          {
+            "code": "100102T",
+            "name": "生物医学",
+            "duration": 4
+          },
+          {
+            "code": "100103T",
+            "name": "生物医学科学",
+            "duration": 4
+          }
+        ]
+      },
+      "1002": {
+        "name": "临床医学类",
+        "majors": [
+          {
+            "code": "100201K",
+            "name": "临床医学",
+            "duration": 5
+          },
+          {
+            "code": "100202TK",
+            "name": "麻醉学",
+            "duration": 5
+          },
+          {
+            "code": "100203TK",
+            "name": "医学影像学",
+            "duration": 5
+          },
+          {
+            "code": "100204TK",
+            "name": "眼视光医学",
+            "duration": 5
+          },
+          {
+            "code": "100205TK",
+            "name": "精神医学",
+            "duration": 5
+          },
+          {
+            "code": "100206T",
+            "name": "放射医学",
+            "duration": 5
+          },
+          {
+            "code": "100207T",
+            "name": "儿科学",
+            "duration": 5
+          },
+          {
+            "code": "100208T",
+            "name": "临床医学教育",
+            "duration": 5
+          }
+        ]
+      },
+      "1003": {
+        "name": "口腔医学类",
+        "majors": [
+          {
+            "code": "100301K",
+            "name": "口腔医学",
+            "duration": 5
+          },
+          {
+            "code": "100302T",
+            "name": "口腔医学技术",
+            "duration": 4
+          },
+          {
+            "code": "100303T",
+            "name": "口腔修复学",
+            "duration": 5
+          }
+        ]
+      },
+      "1004": {
+        "name": "公共卫生与预防医学类",
+        "majors": [
+          {
+            "code": "100401K",
+            "name": "预防医学",
+            "duration": 5
+          },
+          {
+            "code": "100402",
+            "name": "食品卫生与营养学",
+            "duration": 4
+          },
+          {
+            "code": "100403T",
+            "name": "妇幼保健医学",
+            "duration": 5
+          },
+          {
+            "code": "100404T",
+            "name": "卫生监督",
+            "duration": 5
+          },
+          {
+            "code": "100405T",
+            "name": "全球健康学",
+            "duration": 4
+          },
+          {
+            "code": "100406T",
+            "name": "运动与公共健康",
+            "duration": 4
+          },
+          {
+            "code": "100407T",
+            "name": "公共卫生与预防医学",
+            "duration": 5
+          },
+          {
+            "code": "100408T",
+            "name": "健康管理",
+            "duration": 4
+          }
+        ]
+      },
+      "1005": {
+        "name": "中医学类",
+        "majors": [
+          {
+            "code": "100501K",
+            "name": "中医学",
+            "duration": 5
+          },
+          {
+            "code": "100502K",
+            "name": "针灸推拿学",
+            "duration": 5
+          },
+          {
+            "code": "100503K",
+            "name": "藏医学",
+            "duration": 5
+          },
+          {
+            "code": "100504K",
+            "name": "蒙医学",
+            "duration": 5
+          },
+          {
+            "code": "100505K",
+            "name": "维医学",
+            "duration": 5
+          },
+          {
+            "code": "100506K",
+            "name": "壮医学",
+            "duration": 5
+          },
+          {
+            "code": "100507K",
+            "name": "哈医学",
+            "duration": 5
+          },
+          {
+            "code": "100508T",
+            "name": "中医康复学",
+            "duration": 5
+          },
+          {
+            "code": "100509T",
+            "name": "中医养生学",
+            "duration": 5
+          },
+          {
+            "code": "100510T",
+            "name": "中医儿科学",
+            "duration": 5
+          },
+          {
+            "code": "100511T",
+            "name": "中医骨伤科学",
+            "duration": 5
+          },
+          {
+            "code": "100512T",
+            "name": "中西医临床医学",
+            "duration": 5
+          },
+          {
+            "code": "100513T",
+            "name": "中医康复学",
+            "duration": 5
+          },
+          {
+            "code": "100514T",
+            "name": "针灸推拿学",
+            "duration": 5
+          },
+          {
+            "code": "100515T",
+            "name": "中医养生学",
+            "duration": 5
+          }
+        ]
+      },
+      "1006": {
+        "name": "药学类",
+        "majors": [
+          {
+            "code": "100701",
+            "name": "药学",
+            "duration": 4
+          },
+          {
+            "code": "100702",
+            "name": "药物制剂",
+            "duration": 4
+          },
+          {
+            "code": "100703T",
+            "name": "临床药学",
+            "duration": 5
+          },
+          {
+            "code": "100704T",
+            "name": "药事管理",
+            "duration": 4
+          },
+          {
+            "code": "100705T",
+            "name": "药物分析",
+            "duration": 4
+          },
+          {
+            "code": "100706T",
+            "name": "药物化学",
+            "duration": 4
+          },
+          {
+            "code": "100707T",
+            "name": "海洋药学",
+            "duration": 4
+          },
+          {
+            "code": "100708T",
+            "name": "化妆品科学与技术",
+            "duration": 4
+          },
+          {
+            "code": "100709T",
+            "name": "生物制药",
+            "duration": 4
+          },
+          {
+            "code": "100710T",
+            "name": "药物经济学",
+            "duration": 4
+          }
+        ]
+      },
+      "1008": {
+        "name": "中药学类",
+        "majors": [
+          {
+            "code": "100801",
+            "name": "中药学",
+            "duration": 4
+          },
+          {
+            "code": "100802",
+            "name": "中药资源与开发",
+            "duration": 4
+          },
+          {
+            "code": "100803T",
+            "name": "中药制药",
+            "duration": 4
+          },
+          {
+            "code": "100804T",
+            "name": "中草药栽培与鉴定",
+            "duration": 4
+          },
+          {
+            "code": "100805T",
+            "name": "中药学类",
+            "duration": 4
+          },
+          {
+            "code": "100806T",
+            "name": "中药制药技术",
+            "duration": 4
+          },
+          {
+            "code": "100807T",
+            "name": "临床中药学",
+            "duration": 5
+          }
+        ]
+      },
+      "1009": {
+        "name": "法医学类",
+        "majors": [
+          {
+            "code": "100901K",
+            "name": "法医学",
+            "duration": 5
+          }
+        ]
+      },
+      "1010": {
+        "name": "医学技术类",
+        "majors": [
+          {
+            "code": "101001",
+            "name": "医学检验技术",
+            "duration": 4
+          },
+          {
+            "code": "101002",
+            "name": "医学实验技术",
+            "duration": 4
+          },
+          {
+            "code": "101003",
+            "name": "医学影像技术",
+            "duration": 4
+          },
+          {
+            "code": "101004",
+            "name": "眼视光学",
+            "duration": 4
+          },
+          {
+            "code": "101005",
+            "name": "康复治疗学",
+            "duration": 4
+          },
+          {
+            "code": "101006T",
+            "name": "口腔医学技术",
+            "duration": 4
+          },
+          {
+            "code": "101007T",
+            "name": "卫生检验与检疫",
+            "duration": 4
+          },
+          {
+            "code": "101008T",
+            "name": "听力与言语康复学",
+            "duration": 4
+          },
+          {
+            "code": "101009T",
+            "name": "康复物理治疗",
+            "duration": 4
+          },
+          {
+            "code": "101010T",
+            "name": "康复作业治疗",
+            "duration": 4
+          },
+          {
+            "code": "101011T",
+            "name": "智能医学工程",
+            "duration": 4
+          },
+          {
+            "code": "101012T",
+            "name": "生物医药数据科学",
+            "duration": 4
+          },
+          {
+            "code": "101013T",
+            "name": "医学影像工程",
+            "duration": 4
+          },
+          {
+            "code": "101014T",
+            "name": "口腔数字化技术",
+            "duration": 4
+          }
+        ]
+      },
+      "1011": {
+        "name": "护理学类",
+        "majors": [
+          {
+            "code": "101101",
+            "name": "护理学",
+            "duration": 4
+          },
+          {
+            "code": "101102T",
+            "name": "助产学",
+            "duration": 4
+          },
+          {
+            "code": "101103T",
+            "name": "护理学教育",
+            "duration": 4
+          },
+          {
+            "code": "101104T",
+            "name": "中医护理",
+            "duration": 4
+          },
+          {
+            "code": "101105T",
+            "name": "儿童护理",
+            "duration": 4
+          },
+          {
+            "code": "101106T",
+            "name": "老年护理",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "12": {
+    "name": "管理学",
+    "categories": {
+      "1201": {
+        "name": "管理科学与工程类",
+        "majors": [
+          {
+            "code": "120101",
+            "name": "管理科学",
+            "duration": 4
+          },
+          {
+            "code": "120102",
+            "name": "信息管理与信息系统",
+            "duration": 4
+          },
+          {
+            "code": "120103",
+            "name": "工程管理",
+            "duration": 4
+          },
+          {
+            "code": "120104",
+            "name": "房地产开发与管理",
+            "duration": 4
+          },
+          {
+            "code": "120105",
+            "name": "工程造价",
+            "duration": 4
+          },
+          {
+            "code": "120106T",
+            "name": "保密管理",
+            "duration": 4
+          },
+          {
+            "code": "120107T",
+            "name": "邮政管理",
+            "duration": 4
+          },
+          {
+            "code": "120108T",
+            "name": "大数据管理与应用",
+            "duration": 4
+          },
+          {
+            "code": "120109T",
+            "name": "工程审计",
+            "duration": 4
+          },
+          {
+            "code": "120110T",
+            "name": "计算金融",
+            "duration": 4
+          },
+          {
+            "code": "120111T",
+            "name": "应急管理",
+            "duration": 4
+          },
+          {
+            "code": "120112T",
+            "name": "供应链管理",
+            "duration": 4
+          },
+          {
+            "code": "120113T",
+            "name": "金融科技工程",
+            "duration": 4
+          },
+          {
+            "code": "120114T",
+            "name": "网络安全与应急管理",
+            "duration": 4
+          },
+          {
+            "code": "120115T",
+            "name": "自然资源与生态环境管理",
+            "duration": 4
+          },
+          {
+            "code": "120116T",
+            "name": "知识产权",
+            "duration": 4
+          },
+          {
+            "code": "120117T",
+            "name": "保密技术",
+            "duration": 4
+          },
+          {
+            "code": "120118T",
+            "name": "商务数据分析",
+            "duration": 4
+          },
+          {
+            "code": "120119T",
+            "name": "人工智能管理",
+            "duration": 4
+          },
+          {
+            "code": "120120T",
+            "name": "网络与新媒体管理",
+            "duration": 4
+          }
+        ]
+      },
+      "1202": {
+        "name": "工商管理类",
+        "majors": [
+          {
+            "code": "120201K",
+            "name": "工商管理",
+            "duration": 4
+          },
+          {
+            "code": "120202",
+            "name": "市场营销",
+            "duration": 4
+          },
+          {
+            "code": "120203K",
+            "name": "会计学",
+            "duration": 4
+          },
+          {
+            "code": "120204",
+            "name": "财务管理",
+            "duration": 4
+          },
+          {
+            "code": "120205",
+            "name": "国际商务",
+            "duration": 4
+          },
+          {
+            "code": "120206",
+            "name": "人力资源管理",
+            "duration": 4
+          },
+          {
+            "code": "120207",
+            "name": "审计学",
+            "duration": 4
+          },
+          {
+            "code": "120208",
+            "name": "资产评估",
+            "duration": 4
+          },
+          {
+            "code": "120209K",
+            "name": "物业管理",
+            "duration": 4
+          },
+          {
+            "code": "120210",
+            "name": "文化产业管理",
+            "duration": 4
+          },
+          {
+            "code": "120211T",
+            "name": "劳动关系",
+            "duration": 4
+          },
+          {
+            "code": "120212T",
+            "name": "体育经济与管理",
+            "duration": 4
+          },
+          {
+            "code": "120213T",
+            "name": "财务会计教育",
+            "duration": 4
+          },
+          {
+            "code": "120214T",
+            "name": "市场营销教育",
+            "duration": 4
+          },
+          {
+            "code": "120215T",
+            "name": "创业管理",
+            "duration": 4
+          },
+          {
+            "code": "120216T",
+            "name": "大数据与会计",
+            "duration": 4
+          },
+          {
+            "code": "120217T",
+            "name": "网络与新媒体营销",
+            "duration": 4
+          },
+          {
+            "code": "120218T",
+            "name": "数字营销",
+            "duration": 4
+          },
+          {
+            "code": "120219T",
+            "name": "智能财会管理",
+            "duration": 4
+          },
+          {
+            "code": "120220T",
+            "name": "人力资源管理教育",
+            "duration": 4
+          }
+        ]
+      },
+      "1203": {
+        "name": "农工商管理类",
+        "majors": [
+          {
+            "code": "120301",
+            "name": "农林经济管理",
+            "duration": 4
+          },
+          {
+            "code": "120302",
+            "name": "农村区域发展",
+            "duration": 4
+          },
+          {
+            "code": "120303T",
+            "name": "乡村治理",
+            "duration": 4
+          },
+          {
+            "code": "120304T",
+            "name": "农业管理",
+            "duration": 4
+          },
+          {
+            "code": "120305T",
+            "name": "乡村规划",
+            "duration": 4
+          },
+          {
+            "code": "120306T",
+            "name": "美丽乡村与规划设计",
+            "duration": 4
+          }
+        ]
+      },
+      "1204": {
+        "name": "公共管理类",
+        "majors": [
+          {
+            "code": "120401",
+            "name": "公共事业管理",
+            "duration": 4
+          },
+          {
+            "code": "120402",
+            "name": "行政管理",
+            "duration": 4
+          },
+          {
+            "code": "120403",
+            "name": "劳动与社会保障",
+            "duration": 4
+          },
+          {
+            "code": "120404",
+            "name": "土地资源管理",
+            "duration": 4
+          },
+          {
+            "code": "120405",
+            "name": "城市管理",
+            "duration": 4
+          },
+          {
+            "code": "120406T",
+            "name": "海关管理",
+            "duration": 4
+          },
+          {
+            "code": "120407T",
+            "name": "交通管理",
+            "duration": 4
+          },
+          {
+            "code": "120408T",
+            "name": "海事管理",
+            "duration": 4
+          },
+          {
+            "code": "120409T",
+            "name": "对外汉语教育",
+            "duration": 4
+          },
+          {
+            "code": "120410T",
+            "name": "公共关系学",
+            "duration": 4
+          },
+          {
+            "code": "120411T",
+            "name": "健康服务与管理",
+            "duration": 4
+          },
+          {
+            "code": "120412T",
+            "name": "海警后勤管理",
+            "duration": 4
+          },
+          {
+            "code": "120413T",
+            "name": "公共事业管理教育",
+            "duration": 4
+          },
+          {
+            "code": "120414T",
+            "name": "城市管理执法",
+            "duration": 4
+          },
+          {
+            "code": "120415T",
+            "name": "公共服务与数字化管理",
+            "duration": 4
+          },
+          {
+            "code": "120416T",
+            "name": "应急管理",
+            "duration": 4
+          },
+          {
+            "code": "120417T",
+            "name": "文化遗产管理",
+            "duration": 4
+          },
+          {
+            "code": "120418T",
+            "name": "社会工作",
+            "duration": 4
+          },
+          {
+            "code": "120419T",
+            "name": "社会政策",
+            "duration": 4
+          }
+        ]
+      },
+      "1205": {
+        "name": "图书情报与档案管理类",
+        "majors": [
+          {
+            "code": "120501",
+            "name": "图书馆学",
+            "duration": 4
+          },
+          {
+            "code": "120502",
+            "name": "档案学",
+            "duration": 4
+          },
+          {
+            "code": "120503T",
+            "name": "信息资源管理",
+            "duration": 4
+          },
+          {
+            "code": "120504T",
+            "name": "保密管理",
+            "duration": 4
+          },
+          {
+            "code": "120505T",
+            "name": "数据管理与信息系统",
+            "duration": 4
+          },
+          {
+            "code": "120506T",
+            "name": "古籍修复",
+            "duration": 4
+          },
+          {
+            "code": "120507T",
+            "name": "数字人文",
+            "duration": 4
+          }
+        ]
+      },
+      "1206": {
+        "name": "物流管理与工程类",
+        "majors": [
+          {
+            "code": "120601",
+            "name": "物流管理",
+            "duration": 4
+          },
+          {
+            "code": "120602",
+            "name": "物流工程",
+            "duration": 4
+          },
+          {
+            "code": "120603T",
+            "name": "采购管理",
+            "duration": 4
+          },
+          {
+            "code": "120604T",
+            "name": "供应链管理",
+            "duration": 4
+          },
+          {
+            "code": "120605T",
+            "name": "冷链物流技术与管理",
+            "duration": 4
+          },
+          {
+            "code": "120606T",
+            "name": "供应链与物流管理",
+            "duration": 4
+          },
+          {
+            "code": "120607T",
+            "name": "国际商务",
+            "duration": 4
+          },
+          {
+            "code": "120608T",
+            "name": "航空物流管理",
+            "duration": 4
+          },
+          {
+            "code": "120609T",
+            "name": "物流与供应链金融",
+            "duration": 4
+          }
+        ]
+      },
+      "1207": {
+        "name": "工业工程类",
+        "majors": [
+          {
+            "code": "120701",
+            "name": "工业工程",
+            "duration": 4
+          },
+          {
+            "code": "120702T",
+            "name": "电子商务",
+            "duration": 4
+          },
+          {
+            "code": "120703T",
+            "name": "国际商务",
+            "duration": 4
+          },
+          {
+            "code": "120704T",
+            "name": "质量管理工程",
+            "duration": 4
+          },
+          {
+            "code": "120705T",
+            "name": "标准化工程",
+            "duration": 4
+          },
+          {
+            "code": "120706T",
+            "name": "质量管理",
+            "duration": 4
+          },
+          {
+            "code": "120707T",
+            "name": "工业工程教育",
+            "duration": 4
+          },
+          {
+            "code": "120708T",
+            "name": "设施管理",
+            "duration": 4
+          }
+        ]
+      },
+      "1208": {
+        "name": "电子商务类",
+        "majors": [
+          {
+            "code": "120801",
+            "name": "电子商务",
+            "duration": 4
+          },
+          {
+            "code": "120802T",
+            "name": "电子商务及法律",
+            "duration": 4
+          },
+          {
+            "code": "120803T",
+            "name": "跨境电子商务",
+            "duration": 4
+          },
+          {
+            "code": "120804T",
+            "name": "商务数据分析",
+            "duration": 4
+          },
+          {
+            "code": "120805T",
+            "name": "电子商务技术",
+            "duration": 4
+          },
+          {
+            "code": "120806T",
+            "name": "网络与新媒体电商",
+            "duration": 4
+          },
+          {
+            "code": "120807T",
+            "name": "移动商务",
+            "duration": 4
+          },
+          {
+            "code": "120808T",
+            "name": "互联网商务",
+            "duration": 4
+          }
+        ]
+      },
+      "1209": {
+        "name": "旅游管理类",
+        "majors": [
+          {
+            "code": "120901K",
+            "name": "旅游管理",
+            "duration": 4
+          },
+          {
+            "code": "120902",
+            "name": "酒店管理",
+            "duration": 4
+          },
+          {
+            "code": "120903T",
+            "name": "会展经济与管理",
+            "duration": 4
+          },
+          {
+            "code": "120904T",
+            "name": "旅游管理与服务教育",
+            "duration": 4
+          },
+          {
+            "code": "120905T",
+            "name": "智慧旅游",
+            "duration": 4
+          },
+          {
+            "code": "120906T",
+            "name": "定制旅行管理与服务",
+            "duration": 4
+          },
+          {
+            "code": "120907T",
+            "name": "旅游策划与智慧管理",
+            "duration": 4
+          },
+          {
+            "code": "120908T",
+            "name": "民宿管理与运营",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  },
+  "13": {
+    "name": "艺术学",
+    "categories": {
+      "1301": {
+        "name": "艺术学理论类",
+        "majors": [
+          {
+            "code": "130101",
+            "name": "艺术史论",
+            "duration": 4
+          },
+          {
+            "code": "130102T",
+            "name": "艺术管理",
+            "duration": 4
+          },
+          {
+            "code": "130103T",
+            "name": "非物质文化遗产保护",
+            "duration": 4
+          },
+          {
+            "code": "130104T",
+            "name": "艺术教育",
+            "duration": 4
+          },
+          {
+            "code": "130105T",
+            "name": "设计学",
+            "duration": 4
+          },
+          {
+            "code": "130106T",
+            "name": "艺术与科技",
+            "duration": 4
+          },
+          {
+            "code": "130107T",
+            "name": "数字艺术",
+            "duration": 4
+          }
+        ]
+      },
+      "1302": {
+        "name": "音乐与舞蹈学类",
+        "majors": [
+          {
+            "code": "130201",
+            "name": "音乐表演",
+            "duration": 4
+          },
+          {
+            "code": "130202",
+            "name": "音乐学",
+            "duration": 4
+          },
+          {
+            "code": "130203",
+            "name": "作曲与作曲技术理论",
+            "duration": 4
+          },
+          {
+            "code": "130204",
+            "name": "舞蹈表演",
+            "duration": 4
+          },
+          {
+            "code": "130205",
+            "name": "舞蹈学",
+            "duration": 4
+          },
+          {
+            "code": "130206",
+            "name": "舞蹈编导",
+            "duration": 4
+          },
+          {
+            "code": "130207T",
+            "name": "舞蹈教育",
+            "duration": 4
+          },
+          {
+            "code": "130208T",
+            "name": "航空服务艺术与管理",
+            "duration": 4
+          },
+          {
+            "code": "130209T",
+            "name": "流行音乐",
+            "duration": 4
+          },
+          {
+            "code": "130210T",
+            "name": "音乐治疗",
+            "duration": 4
+          },
+          {
+            "code": "130211T",
+            "name": "流行舞蹈",
+            "duration": 4
+          },
+          {
+            "code": "130212T",
+            "name": "音乐商务",
+            "duration": 4
+          },
+          {
+            "code": "130213T",
+            "name": "现代音乐",
+            "duration": 4
+          },
+          {
+            "code": "130214T",
+            "name": "戏剧教育",
+            "duration": 4
+          }
+        ]
+      },
+      "1303": {
+        "name": "戏剧与影视学类",
+        "majors": [
+          {
+            "code": "130301",
+            "name": "表演",
+            "duration": 4
+          },
+          {
+            "code": "130302",
+            "name": "戏剧学",
+            "duration": 4
+          },
+          {
+            "code": "130303",
+            "name": "电影学",
+            "duration": 4
+          },
+          {
+            "code": "130304",
+            "name": "戏剧影视文学",
+            "duration": 4
+          },
+          {
+            "code": "130305",
+            "name": "广播电视编导",
+            "duration": 4
+          },
+          {
+            "code": "130306",
+            "name": "戏剧影视导演",
+            "duration": 4
+          },
+          {
+            "code": "130307",
+            "name": "戏剧影视美术设计",
+            "duration": 4
+          },
+          {
+            "code": "130308T",
+            "name": "录音艺术",
+            "duration": 4
+          },
+          {
+            "code": "130309T",
+            "name": "播音与主持艺术",
+            "duration": 4
+          },
+          {
+            "code": "130310T",
+            "name": "动画",
+            "duration": 4
+          },
+          {
+            "code": "130311T",
+            "name": "影视摄影与制作",
+            "duration": 4
+          },
+          {
+            "code": "130312T",
+            "name": "影视技术",
+            "duration": 4
+          },
+          {
+            "code": "130313T",
+            "name": "戏剧教育",
+            "duration": 4
+          },
+          {
+            "code": "130314T",
+            "name": "曲艺",
+            "duration": 4
+          },
+          {
+            "code": "130315T",
+            "name": "音乐剧",
+            "duration": 4
+          },
+          {
+            "code": "130316T",
+            "name": "相声小品表演",
+            "duration": 4
+          }
+        ]
+      },
+      "1304": {
+        "name": "美术学类",
+        "majors": [
+          {
+            "code": "130401",
+            "name": "美术学",
+            "duration": 4
+          },
+          {
+            "code": "130402",
+            "name": "绘画",
+            "duration": 4
+          },
+          {
+            "code": "130403",
+            "name": "雕塑",
+            "duration": 5
+          },
+          {
+            "code": "130404",
+            "name": "摄影",
+            "duration": 4
+          },
+          {
+            "code": "130405T",
+            "name": "书法学",
+            "duration": 4
+          },
+          {
+            "code": "130406T",
+            "name": "中国画",
+            "duration": 4
+          },
+          {
+            "code": "130407T",
+            "name": "实验艺术",
+            "duration": 4
+          },
+          {
+            "code": "130408T",
+            "name": "跨媒体艺术",
+            "duration": 4
+          },
+          {
+            "code": "130409T",
+            "name": "文物保护与修复",
+            "duration": 4
+          },
+          {
+            "code": "130410T",
+            "name": "漫画",
+            "duration": 4
+          },
+          {
+            "code": "130411T",
+            "name": "美术学教育",
+            "duration": 4
+          }
+        ]
+      },
+      "1305": {
+        "name": "设计学类",
+        "majors": [
+          {
+            "code": "130501",
+            "name": "艺术设计学",
+            "duration": 4
+          },
+          {
+            "code": "130502",
+            "name": "视觉传达设计",
+            "duration": 4
+          },
+          {
+            "code": "130503",
+            "name": "环境设计",
+            "duration": 4
+          },
+          {
+            "code": "130504",
+            "name": "产品设计",
+            "duration": 4
+          },
+          {
+            "code": "130505",
+            "name": "服装与服饰设计",
+            "duration": 4
+          },
+          {
+            "code": "130506",
+            "name": "公共艺术",
+            "duration": 4
+          },
+          {
+            "code": "130507",
+            "name": "工艺美术",
+            "duration": 4
+          },
+          {
+            "code": "130508",
+            "name": "数字媒体艺术",
+            "duration": 4
+          },
+          {
+            "code": "130509T",
+            "name": "艺术与科技",
+            "duration": 4
+          },
+          {
+            "code": "130510T",
+            "name": "包装设计",
+            "duration": 4
+          },
+          {
+            "code": "130511T",
+            "name": "陶瓷艺术设计",
+            "duration": 4
+          },
+          {
+            "code": "130512T",
+            "name": "设计学",
+            "duration": 4
+          },
+          {
+            "code": "130513T",
+            "name": "科技艺术",
+            "duration": 4
+          },
+          {
+            "code": "130514T",
+            "name": "美术设计",
+            "duration": 4
+          },
+          {
+            "code": "130515T",
+            "name": "电竞设计",
+            "duration": 4
+          },
+          {
+            "code": "130516T",
+            "name": "服装设计与工程",
+            "duration": 4
+          }
+        ]
+      }
+    }
+  }
+}
